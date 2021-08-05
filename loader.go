@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/fourcube/goiban-data"
-	"github.com/fourcube/goiban-data-loader/loader"
+	data "github.com/marcapo/goiban-data"
+	"github.com/marcapo/goiban-data-loader/loader"
 
 	_ "github.com/go-sql-driver/mysql"
 )

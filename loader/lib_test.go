@@ -3,9 +3,9 @@ package loader_test
 import (
 	"testing"
 
-	"github.com/fourcube/goiban-data"
+	data "github.com/marcapo/goiban-data"
 
-	"github.com/fourcube/goiban-data-loader/loader"
+	"github.com/marcapo/goiban-data-loader/loader"
 )
 
 func TestLoadBundesbank(t *testing.T) {

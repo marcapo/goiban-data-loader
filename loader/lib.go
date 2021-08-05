@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/fourcube/goiban"
-	"github.com/fourcube/goiban-data"
-	co "github.com/fourcube/goiban/countries"
+	"github.com/marcapo/goiban"
+	data "github.com/marcapo/goiban-data"
+	co "github.com/marcapo/goiban/countries"
 )
 
 // LoadBundesbankData loads data from a text file and stores it in
@@ -352,7 +352,7 @@ func LoadBelgiumData(filePath string, repo data.BankDataRepository) {
 	log.Printf("Loaded %d rows from %s", rows, source)
 }
 
-var defaultBasePath = filepath.Join(os.Getenv("GOPATH"), "src", "github.com", "fourcube", "goiban-data-loader", "data")
+var defaultBasePath = filepath.Join(os.Getenv("GOPATH"), "src", "github.com", "marcapo", "goiban-data-loader", "data")
 
 func SetBasePath(path string) {
 	defaultBasePath = path
