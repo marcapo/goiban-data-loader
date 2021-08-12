@@ -11,6 +11,19 @@ import (
 func TestLoadBundesbank(t *testing.T) {
 	repo := data.NewInMemoryStore()
 	loader.LoadBundesbankData("../data/bundesbank.txt", repo)
+	bank, err := repo.Find("DE", "79350101")
+
+	if err != nil {
+		t.Errorf("error when loading DE data: %s", err)
+	}
+
+	if bank == nil {
+		t.Errorf("couldn't find known DE bank")
+	}
+
+	if bank != nil && bank.Bic != "BYLADEM1KSW" {
+		t.Errorf("BIC is wrong, please check data")
+	}
 }
 
 func TestLoadBundesbankFromDefaultPath(t *testing.T) {
@@ -21,6 +34,21 @@ func TestLoadBundesbankFromDefaultPath(t *testing.T) {
 func TestLoadAustriaFromDefaultPath(t *testing.T) {
 	repo := data.NewInMemoryStore()
 	loader.LoadAustriaData(loader.DefaultAustriaPath(), repo)
+
+	bank, err := repo.Find("AT", "20111")
+
+	if err != nil {
+		t.Errorf("error when loading AT data: %s", err)
+	}
+
+	if bank == nil {
+		t.Errorf("couldn't find known AT bank")
+	}
+
+	if bank != nil && bank.Bic != "GIBAATWWXXX" {
+		t.Errorf("AT BIC is wrong, please check data: %s", bank.Bic)
+	}
+
 }
 
 func TestLoadSwitzerlandFromDefaultPath(t *testing.T) {
