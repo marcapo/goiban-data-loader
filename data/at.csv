@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 06.08.2021
+SEPA-Verzeichnis-Abfrage vom 12.08.2021
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -791,7 +791,6 @@ Hauptanstalt;256838;38477;KI;Raiffeisen;68209h;Raiffeisenbank Region Graz-Thaler
 ;257788;38373;;Raiffeisen;83488b;Raiffeisenbank Liesingtal-St. Stefan eGen;Hauptstraße 18;8774;Mautern (Stmk.);Hauptstrasse 18;8774;Mautern;;Steiermark;03845/3188;03845/2644;info.38227@rb-38227.raiffeisen.at;RZSTAT2G227;http:www.stmk.raiffeisen.at/liesingtal;25.09.1910;529900J5TTRCNNV7T835
 ;268682;39461;;Raiffeisen;111072t;Raiffeisenbank Nockberge eGen;Hauptstr. 41;9545;Radenthein;;;;;Kärnten;04246/2082;04246/2082600;rb.nockberge@rbgk.raiffeisen.at;RZKTAT2K457;www.rb-nockberge.at;28.09.1896;529900B7B1J8IEHUNI05
 ;268607;39436;;Raiffeisen;113153b;Raiffeisen Bank Lurnfeld-Mölltal eGen;Hauptstr. 23;9813;Möllbrücke;Hauptstraße 23;9813;Möllbrücke;;Kärnten;04769/2312;04769/2312 9412 31;rb.lurnfeld-moelltal@rbgk.raiffeisen.at;RZKTAT2K412;www.rb-lurnfeld-moelltal.at;01.01.1903;529900A1B1P6M9M0WA86
-Filiale;24516880;94648;EZ;Zahlungsinstitute;517529y;Viva Payment Services S.A. Zweigniederlassung Wien/Österreich;c/o Regus Westbahnhof BahnhofCity Wien West, Europaplatz 2/1/2;1150;Wien;;;;;Wien;;;;VPAYATW2XXX;;;
 ;266230;32615;;Raiffeisen;49470a;Raiffeisenbank Region Waldviertel Mitte eGen;Landstraße 23, Postfach 10;3910;Zwettl;;3910;Zwettl/NÖ;10;Niederösterreich;02822/53105;02822/531054000;info.32990@rbw4.at;RLNWATWWZWE;www.rbw4.at;05.04.1971;5299008NEDOORP72F645
 ;268763;39254;;Raiffeisen;110981h;Raiffeisen-Bezirksbank St. Veit a.d. Glan-Feldkirchen, registrierte Genossenschaft mit beschränkter Haftung;Oktoberplatz 1;9300;St. Veit an der Glan;;9300;St. Veit an der Glan;9;Kärnten;04212/5566;04212/5566947506;rbb.st-veit@rbgk.raiffeisen.at;RZKTAT2K475;www.raikastveit.at;06.12.1903;529900FT8EQ3UTVPCG65
 ;260266;36360;;Raiffeisen;39730b;Raiffeisen Regionalbank Fügen-Kaltenbach-Zell eGen;Franziskusweg 10;6263;Fügen;;;;;Tirol;05288/62151;05288/6215153199;info@rrbz.at;RZTIAT22229;www.rrbz.at;07.12.1902;5299005434158TH0MT43

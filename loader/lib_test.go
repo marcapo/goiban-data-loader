@@ -26,14 +26,9 @@ func TestLoadBundesbank(t *testing.T) {
 	}
 }
 
-func TestLoadBundesbankFromDefaultPath(t *testing.T) {
+func TestLoadAustria(t *testing.T) {
 	repo := data.NewInMemoryStore()
-	loader.LoadBundesbankData(loader.DefaultBundesbankPath(), repo)
-}
-
-func TestLoadAustriaFromDefaultPath(t *testing.T) {
-	repo := data.NewInMemoryStore()
-	loader.LoadAustriaData(loader.DefaultAustriaPath(), repo)
+	loader.LoadAustriaData("../data/at.csv", repo)
 
 	bank, err := repo.Find("AT", "20111")
 
@@ -51,27 +46,27 @@ func TestLoadAustriaFromDefaultPath(t *testing.T) {
 
 }
 
-func TestLoadSwitzerlandFromDefaultPath(t *testing.T) {
+func TestLoadSwitzerland(t *testing.T) {
 	repo := data.NewInMemoryStore()
-	loader.LoadSwitzerlandData(loader.DefaultSwitzerlandPath(), repo)
+	loader.LoadSwitzerlandData("../data/ch.xlsx", repo)
 }
 
-func TestLoadLiechtensteinFromDefaultPath(t *testing.T) {
+func TestLoadLiechtenstein(t *testing.T) {
 	repo := data.NewInMemoryStore()
-	loader.LoadLiechtensteinData(loader.DefaultLiechtensteinPath(), repo)
+	loader.LoadLiechtensteinData("../data/li.xlsx", repo)
 }
 
-func TestLoadLuxembourgFromDefaultPath(t *testing.T) {
+func TestLoadLuxembourg(t *testing.T) {
 	repo := data.NewInMemoryStore()
-	loader.LoadLuxembourgData(loader.DefaultLuxembourgPath(), repo)
+	loader.LoadLuxembourgData("../data/lu.xlsx", repo)
 }
 
-func TestLoadNetherlandsFromDefaultPath(t *testing.T) {
+func TestLoadNetherlands(t *testing.T) {
 	repo := data.NewInMemoryStore()
-	loader.LoadNetherlandsData(loader.DefaultNetherlandsPath(), repo)
+	loader.LoadNetherlandsData("../data/nl.xlsx", repo)
 }
 
-func TestLoadBelgiumFromDefaultPath(t *testing.T) {
+func TestLoadBelgium(t *testing.T) {
 	repo := data.NewInMemoryStore()
-	loader.LoadBelgiumData(loader.DefaultBelgiumPath(), repo)
+	loader.LoadBelgiumData("../data/nbb.xlsx", repo)
 }
