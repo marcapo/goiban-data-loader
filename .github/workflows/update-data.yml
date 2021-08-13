@@ -1,8 +1,7 @@
 name: ci
 on:
-  push:
-    branches:
-      - 'data_update'
+  schedule:
+  - cron: '5 * * * *'
 
 jobs:
   update-data:
