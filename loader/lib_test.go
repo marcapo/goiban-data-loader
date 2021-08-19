@@ -49,6 +49,20 @@ func TestLoadAustria(t *testing.T) {
 func TestLoadSwitzerland(t *testing.T) {
 	repo := data.NewInMemoryStore()
 	loader.LoadSwitzerlandData("../data/ch.xlsx", repo)
+
+	bank, err := repo.Find("CH", "00778")
+
+	if err != nil {
+		t.Errorf("error when loading CH data: %s", err)
+	}
+
+	if bank == nil {
+		t.Errorf("couldn't find known CH bank")
+	}
+
+	if bank != nil && bank.Bic != "LUKBCH2260A" {
+		t.Errorf("CH BIC is wrong, please check data: %s", bank.Bic)
+	}
 }
 
 func TestLoadLiechtenstein(t *testing.T) {
