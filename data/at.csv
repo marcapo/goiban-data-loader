@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 08.11.2021
+SEPA-Verzeichnis-Abfrage vom 15.11.2021
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -88,7 +88,7 @@ Hauptanstalt;266728;34540;KI;Raiffeisen;110732t;Raiffeisenbank St. Roman eGen;Al
 Hauptanstalt;266809;39267;KI;Raiffeisen;110971v;Raiffeisen-Bezirksbank Spittal/Drau, registrierte Genossenschaft mit beschränkter Haftung;Burgplatz 2;9800;Spittal an der Drau;;9800;Spittal/Drau;22;Kärnten;04762/61701;04762/6170120;rbb.spittal-drau@rbgk.raiffeisen.at;RZKTAT2K267;www.raiffeisen.at/ktn;10.12.1902;529900LYL30YXPC9A987
 Hauptanstalt;3574865;31500;KI;Raiffeisen;156992x;NOTARTREUHANDBANK AG;Landesgerichtsstraße 20;1010;Wien;;;;;Wien;01/5356886;01/5356886250;office@ntbag.at;NTBAATWWXXX;www.notartreuhandbank.at;04.03.1997;529900RVK6LBT03TLA42
 Hauptanstalt;3613640;54000;KI;Landeshypothekenbanken;157656y;Oberösterreichische Landesbank Aktiengesellschaft;Landstr. 38;4010;Linz;;4010;Linz;259;Oberösterreich;0732/7639;0732/7639205;office@hypo-ooe.at;OBLAAT2LXXX;http://www.hypo.at;21.04.1997;529900BI5KIGX6YLX375
-Filiale;5953413;75100;ZW;§ 9 Institute;237384w;State Street Bank International GmbH Filiale Wien;Graben 19;1010;Wien;Graben 19;1010;Wien;;Wien;01/25393100;01/25393499;clientserviceaustria@statestreet.com;SBOSATWWXXX;https://www.statestreet.com/about/office-locations.html;25.07.2003;
+Filiale;5953413;75100;ZW;§ 9 Institute;237384w;State Street Bank International GmbH Filiale Wien;Graben 19;1010;Wien;Graben 19;1010;Wien;;Wien;01/25393100;01/25393499;clientserviceaustria@statestreet.com;SBOSATWWXXX;https://www.statestreet.com/about/office-locations.html;25.07.2003;54930088CDN3HCA4SG14
 ;57193;16310;;Aktienbanken;32942w;Bank für Tirol und Vorarlberg Aktiengesellschaft;Stadtforum 1;6020;Innsbruck;Stadtforum 1;6020;Innsbruck;;Tirol;0505333-0;0505333/1662;info@btv.at;BTVAAT22XXX;www.btv.at;08.04.1904;5299003ATVTQVPTW4735
 ;57193;16320;;Aktienbanken;32942w;Bank für Tirol und Vorarlberg Aktiengesellschaft;Stadtforum 1;6020;Innsbruck;Stadtforum 1;6020;Innsbruck;;Tirol;0505333-0;0505333/1662;info@btv.at;BTVAAT22XXX;www.btv.at;08.04.1904;5299003ATVTQVPTW4735
 ;57193;16460;;Aktienbanken;32942w;Bank für Tirol und Vorarlberg Aktiengesellschaft;Stadtforum 1;6020;Innsbruck;Stadtforum 1;6020;Innsbruck;;Tirol;0505333-0;0505333/1662;info@btv.at;BTVAAT22XXX;www.btv.at;08.04.1904;5299003ATVTQVPTW4735
@@ -883,3 +883,4 @@ Hauptanstalt;258571;36200;KI;Raiffeisen;41064p;Raiffeisenbank Absam-Thaur eGen;S
 ;3404218;12004;;Aktienbanken;150714p;UniCredit Bank Austria AG;Rothschildplatz 1;1020;Wien;;1011;Wien;35;Wien;050505;050505/56155;info@unicreditgroup.at;BKAUATWWXXX;www.bankaustria.at;18.09.1996;D1HEB8VEU6D9M8ZUXG17
 ;3404218;12002;;Aktienbanken;150714p;UniCredit Bank Austria AG;Rothschildplatz 1;1020;Wien;;1011;Wien;35;Wien;050505;050505/56155;info@unicreditgroup.at;BKAUATWWXXX;www.bankaustria.at;18.09.1996;D1HEB8VEU6D9M8ZUXG17
 ;30937;34950;;Raiffeisen;247579m;Raiffeisenlandesbank Oberösterreich Aktiengesellschaft;Europaplatz 1a;4020;Linz;;;;;Oberösterreich;0732/6596;0732/659622739;internet@rlbooe.at;RZOOAT2LXXX;www.rlbooe.at;31.03.2004;I6SS27Q1Q3385V753S50
+;55166;19931;;Sonderbanken;117507f;Raiffeisen Centrobank AG;Am Stadtpark 9;1030;Wien;;1015;Wien;272;Wien;01/51520;01/51520290;office@rcb.at;CENBATWWRDB;www.rcb.at;01.01.1974;529900M2F7D5795H1A49
