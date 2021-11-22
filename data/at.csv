@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 15.11.2021
+SEPA-Verzeichnis-Abfrage vom 22.11.2021
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -278,7 +278,7 @@ Hauptanstalt;257869;38249;KI;Raiffeisen;55977w;Raiffeisenbank Steirisches Salzka
 Hauptanstalt;257877;38252;KI;Raiffeisen;38241m;Raiffeisenbank Nestelbach-Eggersdorf eGen;Schemerlhöhe 71;8302;Nestelbach bei Graz;;;;;Steiermark;03133/2202;;info@wearebanking.at;RZSTAT2G252;www.raiffeisen.at/nestelbach-eggersdorf;17.03.1895;529900EDACO4YT5O9K42
 Hauptanstalt;259063;32099;KI;Raiffeisen;49453a;Raiffeisenkasse Dobersberg-Waldkirchen eGen;Hauptplatz 20;3843;Dobersberg;;;;;Niederösterreich;02843/2214;02843/221421;info.32099@rb-32099.raiffeisen.at;RLNWATW1099;;02.10.1960;529900JNB0LJUQY0UH90
 Hauptanstalt;259098;38420;KI;Raiffeisen;66776a;Raiffeisenbank Straß-Spielfeld eGen;Hauptstraße 59;8472;Straß;Hauptstraße 59;8472;Straß;;Steiermark;03453/2339;03453/233939;info@rbstrass.at;RZSTAT2G420;www.rbstrass.at;01.01.1897;5299000ZVON1HSFMRU07
-Hauptanstalt;262021;36386;KI;Raiffeisen;41041f;Raiffeisenkasse Villgratental registrierte Genossenschaft mit beschränkter Haftung;Nr. 79;9932;Innervillgraten;Gasse 79;9932;Innervillgraten;;Tirol;04843/5304;04843/530416;raika.villgratental@rbgt.raiffeisen.at;RZTIAT22386;www.raika-villgratental.at;01.01.1891;529900ZLBMGIJKNXSD23
+Hauptanstalt;262021;36386;KI;Raiffeisen;41041f;Raiffeisenkasse Villgratental eGen;Nr. 79;9932;Innervillgraten;Gasse 79;9932;Innervillgraten;;Tirol;04843/5304;04843/530416;raika.villgratental@rbgt.raiffeisen.at;RZTIAT22386;www.raika-villgratental.at;01.01.1891;529900ZLBMGIJKNXSD23
 Hauptanstalt;262030;36347;KI;Raiffeisen;39407b;Raiffeisenkasse Volders und Umgebung registrierte Genossenschaft mit beschränkter Haftung;Bundesstraße 24c;6111;Volders;;;;;Tirol;05224/52277;05224/52277-76290;info.volders@rbgt.raiffeisen.at;RZTIAT22347;www.raika-volders.at;18.12.1904;5299003CDGYZR4COMQ76
 Hauptanstalt;122181;37000;KI;Raiffeisen;63128k;Raiffeisenlandesbank Vorarlberg Waren- und Revisionsverband registrierte Genossenschaft mit beschränkter Haftung;Rheinstraße 11;6900;Bregenz;;6901;Bregenz;120;Vorarlberg;05574/405;05574/405331;info@raiba.at;RVVGAT2BXXX;www.raiba.at;01.01.1895;529900FEID5L4H2T2L70
 Hauptanstalt;126802;34680;KI;Raiffeisen;94566v;Raiffeisenbank Wels eGen;Kaiser-Josef-Pl. 58;4601;Wels;;4601;Wels;10;Oberösterreich;07242/754;07242/75431288;rb-wels@raiffeisen-ooe.at;RZOOAT2L680;www.raiffeisenbank-wels.at;24.08.1882;529900X0E841KVE4VX13
