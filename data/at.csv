@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 22.11.2021
+SEPA-Verzeichnis-Abfrage vom 29.11.2021
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -306,6 +306,7 @@ Hauptanstalt;243159;36378;KI;Raiffeisen;41564z;Raiffeisen Regionalbank Matrei i.
 ;5171741;49460;;Volksbanken;211524s;VOLKSBANK WIEN AG;Dietrichgasse 25;1030;Wien;;;;;Wien;01/40137;01/401377600;mail@volksbankwien.at;VBOEATWWXXX;www.volksbankwien.at;19.06.2001;529900D4CD6DIB3CI904
 ;92061;44220;;Volksbanken;129209p;Österreichische Ärzte- und Apothekerbank AG;Spitalgasse 31;1090;Wien;;1016;Wien;31;Wien;01 / 400 80 -0;01 / 400 80 -190;info@apobank.at;BWFBATW1XXX;www.apobank.at;28.10.1914;529900X1F1MUXHHDIV43
 ;257621;38335;;Raiffeisen;69259b;Raiffeisenbank Heiligenkreuz-Kirchbach -St. Georgen eGen;Kirchbach 12;8082;Kirchbach-Zerlach;;;;;Steiermark;03116/2255;03116/225555;info.38170@rb-38170.raiffeisen.at;RZSTAT2G170;;17.03.1896;529900SATWR4ODD5IU36
+Filiale;5800536;19430;ZW;§ 9 Institute;232434s;UBS Europe SE Niederlassung Österreich;Wächtergasse 1;1010;Wien;;;;;Wien;01/25398;01/253981510;info.vienna@ubs.com;UBSWATWWXXX;;26.02.2003;
 ;54801;15006;;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 28;4020;Linz;;4010;Linz/Donau;60;Oberösterreich;0732/7802;0732/ 7802 - 32140;office@oberbank.at;OBKLAT2LXXX;www.oberbank.at;01.07.1869;RRUN0TCQ1K2JDV7MXO75
 ;54801;15005;;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 28;4020;Linz;;4010;Linz/Donau;60;Oberösterreich;0732/7802;0732/ 7802 - 32140;office@oberbank.at;OBKLAT2LXXX;www.oberbank.at;01.07.1869;RRUN0TCQ1K2JDV7MXO75
 ;54801;15008;;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 28;4020;Linz;;4010;Linz/Donau;60;Oberösterreich;0732/7802;0732/ 7802 - 32140;office@oberbank.at;OBKLAT2LXXX;www.oberbank.at;01.07.1869;RRUN0TCQ1K2JDV7MXO75
