@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 28.03.2022
+SEPA-Verzeichnis-Abfrage vom 04.04.2022
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -204,7 +204,7 @@ Filiale;18254918;19490;ZW;§ 9 Institute;429723x;Mizuho Bank Europe N.V. Vienna 
 Hauptanstalt;1646419;47150;KI;Volksbanken;39939i;Volksbank Niederösterreich AG;Brunngasse 10;3100;St. Pölten;;3100;St. Pölten;90;Niederösterreich;02742/391;02742/3918001;mail@vbnoe.at;VBOEATWWNOM;www.vbnoe.at;18.09.1991;529900TJVZO6PPBYKU80
 ;1646419;41210;;Volksbanken;39939i;Volksbank Niederösterreich AG;Brunngasse 10;3100;St. Pölten;;3100;St. Pölten;90;Niederösterreich;02742/391;02742/3918001;mail@vbnoe.at;VBOEATWWNOM;www.vbnoe.at;18.09.1991;529900TJVZO6PPBYKU80
 ;258377;32778;;Raiffeisen;76982i;Raiffeisenbank Region Amstetten eGen;Raiffeisenplatz 1;3300;Amstetten;;3300;Amstetten;1;Niederösterreich;057212;057212/8070;info.32025@rbam.at;RLNWATWWAMS;www.raiffeisen.at/amstetten;01.01.1934;529900OCFXUE12L42K23
-Hauptanstalt;10050973;52300;KI;Aktienbanken;350921k;Addiko Bank AG;Wipplingerstraße 34/4;1010;Wien;;;;;Wien;050232;050232/3000;holding@addiko.com;HSEEAT2KXXX;www.addiko.com;21.06.2013;529900UKZBMDBDZIXD62
+Hauptanstalt;10050973;52300;KI;Aktienbanken;350921k;Addiko Bank AG;Canetti Tower, Canettistraße 5/OG 12;1100;Wien;;;;;Wien;050232;050232/3000;holding@addiko.com;HSEEAT2KXXX;www.addiko.com;21.06.2013;529900UKZBMDBDZIXD62
 Hauptanstalt;256846;38075;KI;Raiffeisen;67767h;Raiffeisenbank Mittleres Raabtal eGen;Paldau 40;8341;Paldau;Paldau 40;8341;Paldau;;Steiermark;03150/5150;03150/5150-40;service@genaumeinebank.at;RZSTAT2G075;www.raiffeisen.at/mittleres-raabtal;01.01.1893;529900RQ94JHBXLQYS17
 Hauptanstalt;256927;38077;KI;Raiffeisen;59121v;Raiffeisenbank Region Fürstenfeld eGen;Kommendegasse 1;8280;Fürstenfeld;;;;;Steiermark;03382/52363;03382/5236318;office@rbfuerstenfeld.at;RZSTAT2G077;www.rbfuerstenfeld.at;31.07.1926;529900KM8P1Q4L0HCX48
 Hauptanstalt;257508;33033;KI;Raiffeisen;123449v;Raiffeisenbank Neusiedlersee-Seewinkel eGen;Hauptplatz 4;7142;Illmitz;;;;;Burgenland;02175/2327;02175/2327185;seewinkel@raiffeisen-burgenland.at;RLBBAT2E033;www.raiffeisen.at/neusiedlersee-seewinkel;24.01.1926;529900UYGE4YUSBDJS39
