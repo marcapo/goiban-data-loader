@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 04.04.2022
+SEPA-Verzeichnis-Abfrage vom 11.04.2022
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -408,7 +408,7 @@ Hauptanstalt;259390;36215;KI;Raiffeisen;40489v;Raiffeisenbank Brixen im Thale eG
 Hauptanstalt;260819;36240;KI;Raiffeisen;39158k;Raiffeisenkasse Hart eGen;Harterstraße 2;6265;Hart im Zillertal;;;;;Tirol;05288/62271;05288/6227170690;raika.hart@rbgt.raiffeisen.at;RZTIAT22240;www.raiffeisen.at/hart;01.01.1907;529900VLMUAGK94CNE14
 Hauptanstalt;260851;36252;KI;Raiffeisen;40929s;Raiffeisenbank St. Anton am Arlberg eGen;Dorfstraße 24;6580;St. Anton am Arlberg;;;;;Tirol;05446/2321;05446/232133;info@arlbergbank.at;RZTIAT22252;www.arlbergbank.at;15.02.1901;529900ZQ0K1KKP1VKA62
 Hauptanstalt;69671;45010;KI;Volksbanken;39405z;Volksbank Salzburg eG;St. Julien-Str. 12;5020;Salzburg;;5021;Salzburg;34;Salzburg;0662/8696;0662/869621;kundenservice@volksbanksalzburg.at;VBOEATWWSAL;www.volksbanksalzburg.at;20.08.1938;529900P1U3D3OR1TG879
-Hauptanstalt;163201;19120;KI;Aktienbanken;76198g;bank99 AG;Rochusplatz 1;1030;Wien;;;;;Wien;0800 099 099;;operations@bank99.at;SPBAATWWXXX;www.bank99.at;01.01.1884;529900RCLERIIXF4QM23
+Hauptanstalt;163201;19120;KI;Aktienbanken;76198g;bank99 AG;Praterstraße 31;1020;Wien;;;;;Wien;0800 099 099;;operations@bank99.at;SPBAATWWXXX;www.bank99.at;01.01.1884;529900RCLERIIXF4QM23
 Hauptanstalt;164283;20333;KI;Sparkassen;113787i;Sparkasse Ried im Innkreis-Haag am Hausruck;Marktplatz 2;4910;Ried im Innkreis;;4910;Ried/Innkreis;185;Oberösterreich;050100/49400;050100/949400;mail@sparkasse-ried.at;SPRHAT21XXX;www.sparkasse-ried.at;14.11.1866;529900JQ18IUYNKUIP97
 Hauptanstalt;247464;39500;KI;Raiffeisen;110964h;Raiffeisenbank St. Paul im Lavanttal eGen;Hauptstr. 26;9470;St. Paul im Lavanttal;Hauptstraße 26;9470;St.Paul/Lav.;;Kärnten;04357/2016;04357/201634;rb.st-paul@rbgk.raiffeisen.at;RZKTAT2K500;www.raiffeisen.at/ktn/stpaul;09.06.1901;529900RKLGH606COZJ70
 Hauptanstalt;258300;38368;KI;Raiffeisen;77960y;Raiffeisenbank Zirbenland eGen;Hauptplatz 12;8750;Judenburg;;;;;Steiermark;03572/82651;03572/82651109;info@rb-zirbenland.at;RZSTAT2G368;www.rb-zirbenland.at;19.07.1908;529900KYPXTATAT5ZN25
@@ -837,7 +837,6 @@ Filiale;26709481;19835;ZW;§ 9 Institute;547791a;Ford Bank GmbH, Zweigniederlass
 ;258954;38223;;Raiffeisen;67302z;Raiffeisenbank Region Graz Nord eGen;Grazer Straße 62;8045;Graz;;8045;Graz-Andritz;3;Steiermark;0316/6993;0316/6993199;info@lebensraumbank.at;RZSTAT2G377;https://www.raiffeisen.at/stmk/region-graz-nord;05.07.1896;529900CUU4JC0MBXOU43
 ;268690;39400;;Raiffeisen;113120d;Raiffeisenbank Lieser-Maltatal eG;Rennweg 6;9863;Rennweg;;;;;Kärnten;04734/221;04734/221946408;rb-lieser-maltatal@rbgk.raiffeisen.at;RZKTAT2K464;www.rb-lieser-maltatal.at;26.02.1901;529900S1E4L6A03YXJ15
 ;268658;39404;;Raiffeisen;118739t;Raiffeisenbank Drautal registrierte Genossenschaft mit beschränkter Haftung;Villacher Straße 74;9710;Feistritz an der Drau;Villacher Straße 74;9710;Feistritz/Drau;;Kärnten;04245/6400044200;04245/64000944225;drautalbank@rbgk.raiffeisen.at;RZKTAT2K442;www.drautalbank.at;16.05.1897;529900I5VIERNMU0B764
-;2525836;47050;;Sonderbanken;134044z;BAWAG P.S.K. Wohnbaubank Aktiengesellschaft;Wiedner Gürtel 11;1100;Wien;Wiedner Gürtel 11;1100;Wien;;Wien;059905/22460;;caroline.pranzl@bawagpsk.com;BAWOATW1XXX;www.bawagpsk.com;12.05.1995;529900Y43E48WFXS1P45
 ;257125;33034;;Raiffeisen;122891y;Raiffeisen Regionalbank Güssing-Jennersdorf eGen;Hauptstraße 3;7540;Güssing;;7540;Güssing;139;Burgenland;05/7540;05/7540 120;info.33027@raiffeisen-burgenland.at;RLBBAT2E027;www.raiffeisen.at/guessing;01.01.1923;529900XW859RR8KRJQ73
 ;257125;33041;;Raiffeisen;122891y;Raiffeisen Regionalbank Güssing-Jennersdorf eGen;Hauptstraße 3;7540;Güssing;;7540;Güssing;139;Burgenland;05/7540;05/7540 120;info.33027@raiffeisen-burgenland.at;RLBBAT2E027;www.raiffeisen.at/guessing;01.01.1923;529900XW859RR8KRJQ73
 ;257079;33055;;Raiffeisen;124097x;Raiffeisenbank Neusiedlersee-Hügelland eGen;Hauptstraße 39;7082;Donnerskirchen;;;;;Burgenland;02683/8686;02683/86869013;info.33012@raiffeisen-burgenland.at;RLBBAT2E012;www.rb-neusiedlersee-hügelland.at;01.03.1926;529900O1U4B6CE4BZD76
@@ -867,7 +866,7 @@ Filiale;4399072;19360;ZW;§ 9 Institute;239433h;ING-DiBa Austria Niederlassung d
 ;285820;35110;;Raiffeisen;37924x;Raiffeisenbank Pongau Mitte eGen;Salzburgerstraße 39b;5620;Schwarzach;;;;;Salzburg;06415/5353;;info@rbpm.at;RVSAAT2S055;www.pongaumitte.raiffeisen.at;24.02.1895;5299009P3E3YVMYOMP72
 ;285820;35310;;Raiffeisen;37924x;Raiffeisenbank Pongau Mitte eGen;Salzburgerstraße 39b;5620;Schwarzach;;;;;Salzburg;06415/5353;;info@rbpm.at;RVSAAT2S055;www.pongaumitte.raiffeisen.at;24.02.1895;5299009P3E3YVMYOMP72
 ;325317;35038;;Raiffeisen;68161m;Raiffeisenbank Flachgau Nord eGen;Hauptstr.3;5112;Lamprechtshausen;;;;;Salzburg;06274/4040;06274/4040-590;info@fn.raiffeisen.at;RVSAAT2S030;www.raiffeisen.at/sbg/flachgaunord;16.05.1920;529900351GPS9WXA2C05
-;163201;19210;;Aktienbanken;76198g;bank99 AG;Rochusplatz 1;1030;Wien;;;;;Wien;0800 099 099;;operations@bank99.at;SPBAATWWB99;www.bank99.at;01.01.1884;529900RCLERIIXF4QM23
+;163201;19210;;Aktienbanken;76198g;bank99 AG;Praterstraße 31;1020;Wien;;;;;Wien;0800 099 099;;operations@bank99.at;SPBAATWWB99;www.bank99.at;01.01.1884;529900RCLERIIXF4QM23
 ;86509;1000;;;nullnull;Republik Österreich;Ballhausplatz 2;1010;Wien;;;;;Wien;;;;BUNDATWWXXX;;;529900QWWUI4XRVR7I03
 ;3976874;57100;;Landeshypothekenbanken;171611w;HYPO TIROL BANK AG;Meraner Straße 8;6020;Innsbruck;;;;;Tirol;050700;050700/41000;office@hypotirol.com;HYPTAT22XXX;www.hypotirol.com;10.06.1998;0W5QHUNYV4W7GJO62R27
 ;30937;34923;;Raiffeisen;247579m;Raiffeisenlandesbank Oberösterreich Aktiengesellschaft;Europaplatz 1a;4020;Linz;;;;;Oberösterreich;0732/6596;0732/659622739;internet@rlbooe.at;RZOOAT2LXXX;www.rlbooe.at;31.03.2004;I6SS27Q1Q3385V753S50
