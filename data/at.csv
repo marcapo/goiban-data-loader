@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 27.06.2022
+SEPA-Verzeichnis-Abfrage vom 04.07.2022
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -560,7 +560,7 @@ Hauptanstalt;7780729;20111;KI;Sparkassen;286283f;Erste Bank der oesterreichische
 Hauptanstalt;262730;34330;KI;Raiffeisen;77513s;Raiffeisenbank Mühlviertler Alm eGen;Schulstr. 2;4280;Königswiesen;;;;;Oberösterreich;07955/6861;05999/34909/38499;rb-muehlviertler-alm@raiffeisen-ooe.at;RZOOAT2L330;http://ooe.raiffeisen.at/muehlviertler-alm;01.01.1895;5299007JS6F7MGJNN453
 Hauptanstalt;262765;34231;KI;Raiffeisen;77552y;Raiffeisenbank Kollerschlag eGen;Markt 4;4154;Kollerschlag;;;;;Oberösterreich;07287/8106;07287/810621;info@raiffeisenbank-kollerschlag.at;RZOOAT2L231;www.raiffeisenbank-kollerschlag.at;02.04.1898;5299006VZVXT7MYYUM62
 Hauptanstalt;265144;34437;KI;Raiffeisen;94262x;Raiffeisenbank Prambachkirchen eGen;Hauptstraße 18;4731;Prambachkirchen;;;;;Oberösterreich;07277/7695;07277/769540200;rb-prambachkirchen@raiffeisen-ooe.at;RZOOAT2L437;www.raiffeisen-ooe.at/prambachkirchen;23.05.1897;529900AOZMITAMK18X23
-Hauptanstalt;265160;32415;KI;Raiffeisen;44605x;Raiffeisenbank Oberes Waldviertel eGen;Hauptplatz 22;3943;Schrems;;;;;Niederösterreich;02853/70090000;02853/70090009;info.32415@rb-32415.raiffeisen.at;RLNWATWWOWS;www.rbow.at;10.09.1893;5299009C948WQ740IL34
+Hauptanstalt;265160;32415;KI;Raiffeisen;44605x;Raiffeisenbank Oberes Waldviertel eGen;Hauptplatz 22;3943;Schrems;;;;;Niederösterreich;02853/70090000;02853/70090009;info@rbow.at;RLNWATWWOWS;www.rbow.at;10.09.1893;5299009C948WQ740IL34
 Hauptanstalt;265187;34438;KI;Raiffeisen;111146a;Raiffeisenbank Pramet eGen;Pramet 2;4925;Pramet;;;;;Oberösterreich;07754/8424;07754/842429;rb-pramet@raiffeisen-ooe.at;RZOOAT2L438;www.raiffeisen-ooe.at/pramet;20.11.1892;529900UYZSFLIBPJA918
 Hauptanstalt;265209;34747;KI;Raiffeisen;121076d;Raiffeisenbank Weyer eGen;Marktplatz 11;3335;Weyer (OÖ);;;;;Oberösterreich;07355/6323;;rb-weyer@raiffeisen-ooe.at;RZOOAT2L747;www.raiffeisen-ooe.at/weyer;21.10.1900;529900IRWR9MEXI1D219
 Hauptanstalt;265241;32823;KI;Raiffeisen;94171m;Raiffeisenbank Region Schwechat eGen;Bruck-Hainburger Str. 5;2320;Schwechat;;;;;Niederösterreich;01/70130;01/70130/8000;info.32823@rbschwechat.at;RLNWATWW823;www.rbschwechat.at;01.01.1928;529900N9DET1J9AK9J78
@@ -677,7 +677,7 @@ Hauptanstalt;285897;35039;KI;Raiffeisen;70075b;Raiffeisenbank Oberpinzgau eGen;K
 ;54801;15002;;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 28;4020;Linz;;4010;Linz/Donau;60;Oberösterreich;0732/7802;0732/ 7802 - 32140;office@oberbank.at;OBKLAT2LXXX;www.oberbank.at;01.07.1869;RRUN0TCQ1K2JDV7MXO75
 ;83470;42830;;Volksbanken;352685f;Volksbank Oberösterreich AG;Pfarrgasse 5;4600;Wels;Pfarrgasse 5;4600;Wels;;Oberösterreich;07242/495;07242/49597;office@vb-ooe.at;VBOEATWWOOE;www.vb-ooe.at;07.09.2010;5299002O43DCLC2NJV75
 ;5238315;19160;;Aktienbanken;84890p;Wiener Privatbank SE;Parkring 12;1010;Wien;;;;;Wien;01/53431;01/5343131;office@wienerprivatbank.com;WIPBATWWXXX;www.wienerprivatbank.com;14.09.2001;529900VYY1MRNR59PN57
-;265160;32936;;Raiffeisen;44605x;Raiffeisenbank Oberes Waldviertel eGen;Hauptplatz 22;3943;Schrems;;;;;Niederösterreich;02853/70090000;02853/70090009;info.32415@rb-32415.raiffeisen.at;RLNWATWWOWS;www.rbow.at;10.09.1893;5299009C948WQ740IL34
+;265160;32936;;Raiffeisen;44605x;Raiffeisenbank Oberes Waldviertel eGen;Hauptplatz 22;3943;Schrems;;;;;Niederösterreich;02853/70090000;02853/70090009;info@rbow.at;RLNWATWWOWS;www.rbow.at;10.09.1893;5299009C948WQ740IL34
 ;17884578;43030;;Volksbanken;421966p;Volksbank Steiermark AG;Schmiedgasse 31;8010;Graz;;;;;Steiermark;050901;050901/8639;dion@volksbank-stmk.at;VBOEATWWGRA;www.volksbank-stmk.at;02.09.2014;529900AB1TM69EG83E75
 ;17884578;48150;;Volksbanken;421966p;Volksbank Steiermark AG;Schmiedgasse 31;8010;Graz;;;;;Steiermark;050901;050901/8639;dion@volksbank-stmk.at;VBOEATWWGRA;www.volksbank-stmk.at;02.09.2014;529900AB1TM69EG83E75
 ;265713;32651;;Raiffeisen;79054g;Raiffeisenbank Mittleres Mostviertel eGen;Scheibbser Straße 4;3250;Wieselburg;;;;;Niederösterreich;07416/52470;07416/524706100;office@rbmm.at;RLNWATWW939;www.rbmm.at;14.02.1892;529900Y3Z5A9HLAUEP44
