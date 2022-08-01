@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 25.07.2022
+SEPA-Verzeichnis-Abfrage vom 01.08.2022
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -188,7 +188,7 @@ Hauptanstalt;4752546;20256;KI;Sparkassen;197282x;SPARKASSE NIEDERÖSTERREICH MIT
 ;5171741;18160;;Volksbanken;211524s;VOLKSBANK WIEN AG;Dietrichgasse 25;1030;Wien;;;;;Wien;01/40137;01/401377600;mail@volksbankwien.at;VBOEATWWXXX;www.volksbankwien.at;19.06.2001;529900D4CD6DIB3CI904
 Hauptanstalt;67512;40074;;;116476p;immigon portfolioabbau ag i.A.;Stallburggasse 4;1010;Wien;;;;;Wien;;;;IMMIAT21XXX;;21.06.1974;FJDBAXYL0TCMGLPQ4563
 ;267970;37410;;Raiffeisen;59048k;Raiffeisenbank Bludenz-Montafon eGen;Werdenbergerstraße 9;6700;Bludenz;;6700;Bludenz;24;Vorarlberg;05552/6153-100;05552/6153-199;bludenz-montafon@raiba.at;RVVGAT2B468;www.raiba-bludenz-montafon.at;13.03.1892;529900YZ7SCJRD675M60
-Filiale;18254918;19490;ZW;§ 9 Institute;429723x;Mizuho Bank Europe N.V. Vienna Branch;DC Tower Donau-City-Straße 7;1220;Wien;;;;;Wien;01/2691000000;01/2691000015;accounting@mizuho-cb.nl;MHCBATWWXXX;accounting@mizuho-cb.nl;;
+Filiale;18254918;19490;ZW;§ 9 Institute;429723x;Mizuho Bank Europe N.V. Vienna Branch;DC Tower Donau-City-Straße 7;1220;Wien;;;;;Wien;01/2691000000;01/2691000015;reporting@mizuho-cb.nl;MHCBATWWXXX;reporting@mizuho-cb.nl;;
 ;326410;35014;;Raiffeisen;68092k;Raiffeisenbank Anthering - Elixhausen eGen;Salzburger Straße 6;5102;Anthering;;;;;Salzburg;06223/2227;06223/222718;info@anthering-elixhausen.raiffeisen.at;RVSAAT2S007;www.anthering-elixhausen.raiffeisen.at;01.10.1913;529900PY8HJ7S90H3468
 ;5171741;49220;;Volksbanken;211524s;VOLKSBANK WIEN AG;Dietrichgasse 25;1030;Wien;;;;;Wien;01/40137;01/401377600;mail@volksbankwien.at;VBOEATWWXXX;www.volksbankwien.at;19.06.2001;529900D4CD6DIB3CI904
 ;69671;44020;;Volksbanken;39405z;Volksbank Salzburg eG;St. Julien-Str. 12;5020;Salzburg;;5021;Salzburg;34;Salzburg;0662/8696;0662/869621;kundenservice@volksbanksalzburg.at;VBOEATWWSAL;www.volksbanksalzburg.at;20.08.1938;529900P1U3D3OR1TG879
@@ -367,7 +367,7 @@ Hauptanstalt;1508091;34383;KI;Raiffeisen;77965f;Raiffeisenbank Mittleres Rodltal
 Hauptanstalt;1508881;34277;KI;Raiffeisen;77998d;Raiffeisenbank Region Bad Leonfelden eGen;Hauptpl. 2;4190;Bad Leonfelden;;;;;Oberösterreich;07213/8131;07213/813123;rb-bad-leonfelden@raiffeisen-ooe.at;RZOOAT2L277;www.raiffeisen-ooe.at/bad-leonfelden;08.06.1990;529900F9ZP0XDKL33R63
 Hauptanstalt;1511122;34710;KI;Raiffeisen;95023s;Raiffeisenbank Region Vöcklabruck eGen;Salzburger Straße 1;4840;Vöcklabruck;;;;;Oberösterreich;07672/22044;07672/2204446199;rb-voecklabruck@raiffeisen-ooe.at;RZOOAT2L710;www.raiffeisen-ooe.at/voecklabruck;22.10.1990;529900H4VZFCVFKLDA98
 Hauptanstalt;1511203;34303;KI;Raiffeisen;111408k;Raiffeisenbank Mattigtal eGen;Hauptstr. 61;5231;Schalchen;;;;;Oberösterreich;07742/2506;05999/34909/37000;rb-mattigtal@raiffeisen-ooe.at;RZOOAT2L303;www.raiffeisen-ooe.at/mattigtal;11.07.1990;529900C8QKEEBKIW8L39
-Hauptanstalt;4381807;19690;KI;Aktienbanken;185946a;VakifBank International AG;Prinz-Eugen-Straße 8-10, Top 17 + Top 18;1040;Wien;Prinz-Eugen-Straße 8-10/ 8.OG;1040;Wien;;Wien;01/5123520;01/512352020;office@vakifbank.at;TVBAATWWXXX;www.vakifbank.at;23.07.1999;52990056W0VDKEDYUY83
+Hauptanstalt;4381807;19690;KI;Aktienbanken;185946a;VakifBank International AG;Prinz-Eugen-Straße 8-10, Top 17 + Top 18;1040;Wien;;1040;Wien;;Wien;01/5123520;01/512352020;office@vakifbank.at;TVBAATWWXXX;www.vakifbank.at;23.07.1999;52990056W0VDKEDYUY83
 Filiale;4433220;19400;ZW;§ 9 Institute;187637m;MUFG Bank (Europe) N.V. Vienna Branch;Schwarzenbergplatz 5/3.2;1030;Wien;;1037;Wien;51;Wien;01/50262;01/5026250;info@at.mufg.jp;BOTKATWXXXX;www.nl.bk.mufg.jp;22.10.1999;
 Hauptanstalt;4778413;20246;KI;Sparkassen;198287z;Sparkasse Poysdorf AG;Dreifaltigkeitsplatz 2;2170;Poysdorf;;;;;Niederösterreich;050100/25200;050100/925200;office@poysdorf.sparkasse.at;SPPDAT21XXX;www.sparkasse.at/poysdorf;24.07.2000;529900ZKIMUP9PHZIY83
 Hauptanstalt;3679268;74000;KI;Aktienbanken;161285i;Sberbank Europe AG in Abwicklung;Schwarzenbergplatz 3;1010;Wien;;;;;Wien;01/22732;;office@sberbank.at;SABRATWWXXX;www.sberbank.at;15.10.1999;529900IZ8TASAYR3A694
