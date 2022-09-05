@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 29.08.2022
+SEPA-Verzeichnis-Abfrage vom 05.09.2022
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -712,7 +712,7 @@ Filiale;18859062;75910;ZW;§ 9 Institute;442103b;PSA Bank Österreich, Niederlas
 ;247383;36276;;Raiffeisen;38171i;Raiffeisenbank Tirol Mitte West eGen;Untermarktstr. 3;6410;Telfs;;6410;Telfs;27;Tirol;05262/6981;05262/698146050;rrb.telfs@rbgt.raiffeisen.at;RZTIAT22336;www.raiffeisen-telfs.at;01.10.1893;529900MNB4WYVQMHEP34
 ;247375;36254;;Raiffeisen;39656v;Raiffeisenbank Kitzbühel - St. Johann eGen;Achenweg 16;6370;Kitzbühel;;;;;Tirol;05356/6960;05356/696044108;raiffeisen@rrb.at;RZTIAT22263;www.raiffeisen-kitzbuehel.at;23.08.1891;529900XG9P1JQ1NMJ395
 ;247413;38053;;Raiffeisen;47019x;Raiffeisenbank Lipizzanerheimat eGen;Voitsberg;8570;Voitsberg;Conrad-von-Hötzendorf-Straße 5;8570;Voitsberg;;Steiermark;03142/21321;03142/21321774;info@rb-lipizzanerheimat.at;RZSTAT2G487;www.rb-lipizzanerheimat.at;13.07.1902;529900XS6MCV68IFRW92
-Filiale;19876122;19610;ZW;§ 9 Institute;460496a;BNP PARIBAS PERSONAL FINANCE SA Niederlassung Österreich;Vordere Zollamtsstraße 13;1030;Wien;Kärntner Ring 5-7, 4. St.;1010;Wien;;Wien;+436764416361;;office@consorsfinanz.at;;http://www.consorsfinanz.at;;
+Filiale;19876122;19610;ZW;§ 9 Institute;460496a;BNP PARIBAS PERSONAL FINANCE SA Niederlassung Österreich;Vordere Zollamtsstraße 13;1030;Wien;Vordere Zollamtsstraße 13, 3. Stock;1030;Wien;;Wien;+436764416361;;office@consorsfinanz.at;;http://www.consorsfinanz.at;;
 ;257575;38326;;Raiffeisen;67661b;Raiffeisenbank Ilz-Großsteinbach-Riegersburg eGen;Ilz 39;8262;Ilz;;;;;Steiermark;03385/363;03385/363933;info.38151@rb-38151.raiffeisen.at;RZSTAT2G151;www.rbilz.at;02.02.1898;529900PPVG3BDSDC4D89
 ;256820;38132;;Raiffeisen;53892d;Raiffeisenbank Region Fehring eGen;Fehring;8350;Fehring;;;;;Steiermark;03155/2257;03155/2257-100;office@meinebank.cc;RZSTAT2G071;www.meinebank.cc;24.07.1898;529900G6PA459NC9MA06
 ;257575;38120;;Raiffeisen;67661b;Raiffeisenbank Ilz-Großsteinbach-Riegersburg eGen;Ilz 39;8262;Ilz;;;;;Steiermark;03385/363;03385/363933;info.38151@rb-38151.raiffeisen.at;RZSTAT2G151;www.rbilz.at;02.02.1898;529900PPVG3BDSDC4D89
