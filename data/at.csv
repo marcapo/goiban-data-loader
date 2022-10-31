@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 24.10.2022
+SEPA-Verzeichnis-Abfrage vom 31.10.2022
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -20,7 +20,6 @@ Hauptanstalt;285960;35017;KI;Raiffeisen;68012v;Raiffeisenbank Golling-Scheffau-K
 Hauptanstalt;285978;35029;KI;Raiffeisen;70108a;Raiffeisenbank Kuchl-St. Koloman eGen;Markt 222;5431;Kuchl;;;;;Salzburg;06244/6507;06244/650717;info@kuchl.raiffeisen.at;RVSAAT2S029;www.raiffeisen.at/sbg/kuchl;30.08.1925;529900ZRHSL769NX0G06
 Hauptanstalt;285994;35053;KI;Raiffeisen;71242v;Raiffeisenbank Pinzgau Mitte eGen;Lofererstr.5;5760;Saalfelden am Stein. Meer;;;;;Salzburg;06582/72218;06582/7221821;info@saalfelden.raiffeisen.at;RVSAAT2S053;www.saalfelden.raiffeisen.at;01.01.1902;5299001R65GPN5AW9T45
 Hauptanstalt;2440792;19530;KI;Aktienbanken;75934v;Bankhaus Carl Spängler & Co. Aktiengesellschaft;Schwarzstraße 1;5020;Salzburg;;5024;Salzburg;41;Salzburg;0662/8686;0662/8686158;bankhaus@spaengler.at;SPAEAT2SXXX;www.spaengler.at;14.01.1994;529900CCYCFJRG4F2935
-Hauptanstalt;2525836;19750;KI;Sonderbanken;134044z;BAWAG P.S.K. Wohnbaubank Aktiengesellschaft;Wiedner Gürtel 11;1100;Wien;Wiedner Gürtel 11;1100;Wien;;Wien;059905/22460;;caroline.pranzl@bawagpsk.com;BAWOATW1XXX;www.bawagpsk.com;12.05.1995;529900Y43E48WFXS1P45
 ;54801;15030;;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 28;4020;Linz;;4010;Linz/Donau;60;Oberösterreich;0732/7802;0732/ 7802 - 32140;office@oberbank.at;OBKLAT2LXXX;www.oberbank.at;01.07.1869;RRUN0TCQ1K2JDV7MXO75
 ;54801;15031;;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 28;4020;Linz;;4010;Linz/Donau;60;Oberösterreich;0732/7802;0732/ 7802 - 32140;office@oberbank.at;OBKLAT2LXXX;www.oberbank.at;01.07.1869;RRUN0TCQ1K2JDV7MXO75
 ;54801;15040;;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 28;4020;Linz;;4010;Linz/Donau;60;Oberösterreich;0732/7802;0732/ 7802 - 32140;office@oberbank.at;OBKLAT2LXXX;www.oberbank.at;01.07.1869;RRUN0TCQ1K2JDV7MXO75
