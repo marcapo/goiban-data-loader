@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 14.11.2022
+SEPA-Verzeichnis-Abfrage vom 21.11.2022
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -866,7 +866,7 @@ Hauptanstalt;258571;36200;KI;Raiffeisen;41064p;Raiffeisenbank Absam-Thaur eGen;S
 ;265705;32642;;Raiffeisen;107016b;Raiffeisenbank Wr. Neustadt-Schneebergland eGen;Hauptplatz 28;2700;Wiener Neustadt;;;;;Niederösterreich;02622/27451;02622/27451114;info.32937@rb-32937.raiffeisen.at;RLNWATWWWRN;www.rbwnsbl.at;31.05.1906;529900PYOALDPA9SZA21
 ;263419;34735;;Raiffeisen;110468d;Raiffeisenbank Region Ried i.I. eGen;Friedrich-Thurner-Straße 14;4910;Ried im Innkreis;;;;;Oberösterreich;07752/84491;07752/8449140625;rb-region-ried@raiffeisen-ooe.at;RZOOAT2L450;www.raiffeisen-ooe.at/region-ried;22.09.1889;529900FVKXNY159SQ550
 ;263419;34284;;Raiffeisen;110468d;Raiffeisenbank Region Ried i.I. eGen;Friedrich-Thurner-Straße 14;4910;Ried im Innkreis;;;;;Oberösterreich;07752/84491;07752/8449140625;rb-region-ried@raiffeisen-ooe.at;RZOOAT2L450;www.raiffeisen-ooe.at/region-ried;22.09.1889;529900FVKXNY159SQ550
-Filiale;29029040;19360;ZW;§ 9 Institute;586056y;ING Austria Branch of ING Bank N.V.;Praterstraße 1/Space 35;1020;Wien;;;;;Wien;;;;;;;
+Filiale;29029040;19360;ZW;§ 9 Institute;586056y;ING Austria Branch of ING Bank N.V.;Praterstraße 1/Space 35;1020;Wien;;;;;Wien;+43 1 514620;;regulatory.reporting_wbat@ing.com;INGBATWWXXX;https://www.ingwb.com/en/network/emea/austria;;
 ;86509;1000;;;nullnull;Republik Österreich;Ballhausplatz 2;1010;Wien;;;;;Wien;;;;BUNDATWWXXX;;;529900QWWUI4XRVR7I03
 ;3976874;57100;;Landeshypothekenbanken;171611w;HYPO TIROL BANK AG;Meraner Straße 8;6020;Innsbruck;;;;;Tirol;050700;050700/41000;office@hypotirol.com;HYPTAT22XXX;www.hypotirol.com;10.06.1998;0W5QHUNYV4W7GJO62R27
 ;30937;34923;;Raiffeisen;247579m;Raiffeisenlandesbank Oberösterreich Aktiengesellschaft;Europaplatz 1a;4020;Linz;;;;;Oberösterreich;0732/6596;0732/659622739;internet@rlbooe.at;RZOOAT2LXXX;www.rlbooe.at;31.03.2004;I6SS27Q1Q3385V753S50
