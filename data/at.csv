@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 12.12.2022
+SEPA-Verzeichnis-Abfrage vom 19.12.2022
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -517,7 +517,7 @@ Hauptanstalt;1611160;19390;KI;Sonderbanken;45118a;BMW Austria Bank GmbH;Siegfrie
 Hauptanstalt;53767;14000;KI;Aktienbanken;205340x;BAWAG P.S.K. Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse Aktiengesellschaft;Wiedner Gürtel 11;1100;Wien;;;;;Wien;059905;059905/22840;bawagpsk@bawagpsk.com;BAWAATWWXXX;https://www.bawag.at/;01.01.1922;529900ICA8XQYGIKR372
 Hauptanstalt;1613120;51000;KI;Landeshypothekenbanken;259167d;HYPO-BANK BURGENLAND Aktiengesellschaft;Neusiedler Straße 33;7000;Eisenstadt;;7001;Eisenstadt;44;Burgenland;02682/605;;info@bank-bgld.at;EHBBAT2EXXX;www.bank-bgld.at;25.07.1991;529900AUL2XTLS3EM992
 Hauptanstalt;174700;20502;KI;Sparkassen;277594b;Sparkasse Imst AG;Sparkassenplatz 1;6460;Imst;;;;;Tirol;050100/77000;050100/977000;service@imst.sparkasse.at;SPIMAT21XXX;www.sparkasse.at/imst;01.01.1882;529900WSPO88HBNY6S36
-Hauptanstalt;1226940;73800;KI;Sonderbanken;58700z;LEASFINANZ Bank GmbH;Rothschildplatz 1;1020;Wien;Rothschildplatz 4;1020;Wien;;Wien;+43(0)50588-0;+43(0)5058894162;juergen.koenig@unicreditleasing.at;LEGMATW1XXX;www.unicreditleasing.at;11.07.2006;529900H9ABDZ8XIMMV92
+Hauptanstalt;1226940;73800;KI;Sonderbanken;58700z;LEASFINANZ Bank GmbH;Rothschildplatz 1;1020;Wien;Rothschildplatz 1;1020;Wien;;Wien;+43(0)50505-64040;;erich.schramek@unicreditgroup.at;LEGMATW1XXX;www.unicreditleasing.at;11.07.2006;529900H9ABDZ8XIMMV92
 Hauptanstalt;80675;20510;KI;Sparkassen;280193z;Sparkasse Schwaz AG;Franz-Josef-Straße 8-10;6130;Schwaz;;6130;Schwaz;45;Tirol;050100/77300;050100/977300;info@sparkasse-schwaz.at;SPSCAT22XXX;www.sparkasse-schwaz.at;01.01.1872;529900P4VO14SV3AUU56
 Hauptanstalt;262641;32426;KI;Raiffeisen;47224y;Raiffeisenbank Langenlois eGen;Kornplatz 9;3550;Langenlois;;;;;Niederösterreich;02734/3131;02734/3131310;office@rb-langenlois.at;RLNWATWW426;www.rb-langenlois.at;01.01.1926;529900NGXFVA0XEAJM19
 Hauptanstalt;262706;32438;KI;Raiffeisen;53300h;Raiffeisenbank Kreuzenstein eGen;Stockerauerstr. 8-10;2100;Leobendorf;;;;;Niederösterreich;02262/66431;02262/6643185;info.32438@rb-32438.raiffeisen.at;RLNWATW1438;www.kreuzenstein.meineraika.at;27.04.1895;529900YHY8PTX0T5N627
