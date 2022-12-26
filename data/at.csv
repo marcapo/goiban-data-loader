@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 19.12.2022
+SEPA-Verzeichnis-Abfrage vom 23.12.2022
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -115,7 +115,7 @@ Hauptanstalt;535184;34736;KI;Raiffeisen;94978z;Raiffeisenbank Region Grieskirche
 ;281646;35050;;Raiffeisen;53369i;Raiffeisenbank Lungau eGen;Kirchengasse 9;5580;Tamsweg;;;;;Salzburg;05999/35063;05999/35063;info@rb-lungau.at;RVSAAT2S063;www.rb-lungau.at;05.12.1897;529900PN604MO3H4BI83
 Hauptanstalt;1643827;20815;KI;Sparkassen;34274d;Steiermärkische Bank und Sparkassen Aktiengesellschaft;Sparkassenplatz 4;8010;Graz;;8011;Graz;844;Steiermark;050100/36000;050100/936000;info@steiermaerkische.at;STSPAT2GXXX;www.sparkasse.at/steiermaerkische;09.07.1991;549300DVPJYGNF2P7B03
 Hauptanstalt;1800035;20228;KI;Sparkassen;38509g;KREMSER BANK UND SPARKASSEN AKTIENGESELLSCHAFT;Ringstraße 5-7;3500;Krems an der Donau;;3500;Krems/Donau;27;Niederösterreich;050100/25500;050100/925500;info@kremserbank.at;SPKDAT21XXX;www.kremserbank.at;12.05.1992;52990080J4AQ0O07WO29
-Hauptanstalt;242071;20505;KI;Sparkassen;37695i;Sparkasse der Stadt Kitzbühel;Bahnhofstraße 6;6370;Kitzbühel;;6370;Kitzbühel;90;Tirol;050100/78600;050100/978600;vorstand@sparkasse-kitzbuehel.at;SPKIAT2KXXX;www.sparkasse.at/kitzbuehel;27.11.1979;5299005F2A4SAXE4PE25
+Hauptanstalt;242071;20505;KI;Sparkassen;37695i;Sparkasse der Stadt Kitzbühel;Bahnhofstraße 6;6370;Kitzbühel;;6370;Kitzbühel;90;Tirol;050100/78600;050100/978600;info@sparkasse-kitzbuehel.at;SPKIAT2KXXX;www.sparkasse.at/kitzbuehel;27.11.1979;5299005F2A4SAXE4PE25
 Hauptanstalt;101737;20506;KI;Sparkassen;37729i;Sparkasse Kufstein Tiroler Sparkasse von 1877;Oberer Stadtplatz 1;6330;Kufstein;;6332;Kufstein;20;Tirol;050100/76000;050100/976000;service@sparkasse-kufstein.at;SPKUAT22XXX;www.sparkasse-kufstein.at;03.12.1877;529900PMGP6HWEDQW939
 ;3404218;11000;;Aktienbanken;150714p;UniCredit Bank Austria AG;Rothschildplatz 1;1020;Wien;;1011;Wien;35;Wien;050505;050505/56155;info@unicreditgroup.at;BKAUATWWXXX;www.bankaustria.at;18.09.1996;D1HEB8VEU6D9M8ZUXG17
 ;106046;33135;;Raiffeisen;121834v;Raiffeisenlandesbank Burgenland und Revisionsverband eGen;Friedrich Wilhelm Raiffeisen-Straße 1;7000;Eisenstadt;;7001;Eisenstadt;96;Burgenland;02682/691;02682/691279;info.rlbb@raiffeisen-burgenland.at;RLBBAT2EXXX;www.raiffeisen.at/bgld/rlb-bgld;09.06.1928;529900VUMWR5RIA1I644
@@ -359,7 +359,6 @@ Hauptanstalt;1511203;34303;KI;Raiffeisen;111408k;Raiffeisenbank Mattigtal eGen;H
 Hauptanstalt;4381807;19690;KI;Aktienbanken;185946a;VakifBank International AG;Prinz-Eugen-Straße 8-10, Top 17 + Top 18;1040;Wien;;1040;Wien;;Wien;01/5123520;01/512352020;office@vakifbank.at;TVBAATWWXXX;www.vakifbank.at;23.07.1999;52990056W0VDKEDYUY83
 Filiale;4433220;19400;ZW;§ 9 Institute;187637m;MUFG Bank (Europe) N.V. Vienna Branch;Schwarzenbergplatz 5/3.2;1030;Wien;;1037;Wien;51;Wien;01/50262;01/5026250;info@at.mufg.jp;;www.nl.bk.mufg.jp;22.10.1999;
 Hauptanstalt;4778413;20246;KI;Sparkassen;198287z;Sparkasse Poysdorf AG;Dreifaltigkeitsplatz 2;2170;Poysdorf;;;;;Niederösterreich;050100/25200;050100/925200;office@poysdorf.sparkasse.at;SPPDAT21XXX;www.sparkasse.at/poysdorf;24.07.2000;529900ZKIMUP9PHZIY83
-Hauptanstalt;3679268;74000;KI;Aktienbanken;161285i;Sberbank Europe AG in Abwicklung;Schwarzenbergplatz 3;1010;Wien;;;;;Wien;01/22732;;office@sberbank.at;SABRATWWXXX;www.sberbank.at;15.10.1999;529900IZ8TASAYR3A694
 Hauptanstalt;122122;38000;KI;Raiffeisen;264700s;Raiffeisen-Landesbank Steiermark AG;Kaiserfeldgasse 5;8010;Graz;;8011;Graz;847;Steiermark;0316/8036;0316/80363089;info@rlbstmk.at;RZSTAT2GXXX;www.raiffeisen.at/rlb-steiermark;01.01.1927;529900UNUKYZ9HND3309
 ;258300;38261;;Raiffeisen;77960y;Raiffeisenbank Zirbenland eGen;Hauptplatz 12;8750;Judenburg;;;;;Steiermark;03572/82651;03572/82651109;info@rb-zirbenland.at;RZSTAT2G368;www.rb-zirbenland.at;19.07.1908;529900KYPXTATAT5ZN25
 ;285897;35068;;Raiffeisen;70075b;Raiffeisenbank Oberpinzgau eGen;Kirchgasse 12;5730;Mittersill;;;;;Salzburg;06562/6445;06562/644435;info@rbop.at;RVSAAT2S039;www.oberpinzgau.raiffeisen.at;26.03.1894;529900RD4I6JQDY6HA87
