@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 06.02.2023
+SEPA-Verzeichnis-Abfrage vom 13.02.2023
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -421,7 +421,7 @@ Hauptanstalt;54801;15000;KI;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 2
 Hauptanstalt;55042;19200;KI;Aktienbanken;103232m;Schoellerbank Aktiengesellschaft;Renngasse 3;1010;Wien;;;;;Wien;01/53471-0;01 534 71-1655;info@schoellerbank.at;SCHOATWWXXX;https://www.schoellerbank.at;29.08.1979;529900ESWL1AEC189F69
 Hauptanstalt;55166;19930;KI;Sonderbanken;117507f;Raiffeisen Digital Bank AG;Am Stadtpark 9;1030;Wien;;1015;Wien;272;Wien;01/51520;01/51520290;office@raiffeisendigital.com;CENBATWWXXX;www.raiffeisendigital.com;01.01.1974;529900M2F7D5795H1A49
 Hauptanstalt;240214;42110;KI;Aktienbanken;56656v;Marchfelder Bank eG;Marchfelder-Platz 1-2;2230;Gänserndorf;;2230;Gänserndorf;20;Niederösterreich;02282/89250;02282/892510;mail@marchfelderbank.at;MVOGAT22XXX;www.marchfelderbank.at;26.04.1925;549300MD0MH7D38WOH93
-Hauptanstalt;244619;31303;KI;Bausparkassen;116309v;Raiffeisen Bausparkasse Gesellschaft m.b.H.;Mooslackengasse 12;1190;Wien;;;;;Wien;01/54646;01/546462358;kundenservice@raibau.at;RBSKATW1XXX;www.bausparen.at;25.06.1931;529900WEWTWSNCK1VE42
+Hauptanstalt;244619;31303;KI;Bausparkassen;116309v;Raiffeisen Bausparkasse Gesellschaft m.b.H.;Mooslackengasse 12;1190;Wien;;;;;Wien;01/54646;01/546462369;kundenservice@raibau.at;RBSKATW1XXX;www.bausparen.at;25.06.1931;529900WEWTWSNCK1VE42
 Hauptanstalt;244627;73700;KI;Sonderbanken;105935m;Österreichische Hotel- und Tourismusbank Gesellschaft m.b.H.;Parkring 12a;1010;Wien;;1010;Wien;480;Wien;01/51530;01/5153030;oeht@oeht.at;;www.oeht.at;01.07.1947;529900ANOYN8YYBSCC45
 Hauptanstalt;244635;20241;KI;Sparkassen;110111d;Sparkasse Neunkirchen;Hauptplatz 2;2620;Neunkirchen/ NÖ;;2620;Neunkirchen;9;Niederösterreich;050100/72600;050100/972600;service@neunkirchen.sparkasse.at;SPNGAT21XXX;https://www.sparkasse.at/neunkirchen/privatkunden;17.07.1980;529900JSHYRHGDZL1753
 ;256722;38311;;Raiffeisen;53624i;Raiffeisenbank Oststeiermark Nord eGen;Raiffeisenplatz 200;8225;Pöllau bei Hartberg;;;;;Steiermark;+43 3335 48800;+43 3335 48800 805;info@dieraiffeisenbank.at;RZSTAT2G023;www.dieraiffeisenbank.at;03.02.1903;5299006SI21AP8AO6N63
@@ -865,7 +865,7 @@ Hauptanstalt;258571;36200;KI;Raiffeisen;41064p;Raiffeisenbank Absam-Thaur eGen;S
 ;263419;34735;;Raiffeisen;110468d;Raiffeisenbank Region Ried i.I. eGen;Friedrich-Thurner-Straße 14;4910;Ried im Innkreis;;;;;Oberösterreich;07752/84491;07752/8449140625;rb-region-ried@raiffeisen-ooe.at;RZOOAT2L450;www.raiffeisen-ooe.at/region-ried;22.09.1889;529900FVKXNY159SQ550
 ;263419;34284;;Raiffeisen;110468d;Raiffeisenbank Region Ried i.I. eGen;Friedrich-Thurner-Straße 14;4910;Ried im Innkreis;;;;;Oberösterreich;07752/84491;07752/8449140625;rb-region-ried@raiffeisen-ooe.at;RZOOAT2L450;www.raiffeisen-ooe.at/region-ried;22.09.1889;529900FVKXNY159SQ550
 Filiale;29029040;19360;ZW;§ 9 Institute;586056y;ING Austria Branch of ING Bank N.V.;Praterstraße 1/Space 35;1020;Wien;;;;;Wien;+43 1 514620;;regulatory.reporting_wbat@ing.com;INGBATWWXXX;https://www.ingwb.com/en/network/emea/austria;;
-Hauptanstalt;24365696;19825;KI;Aktienbanken;515033b;Wüstenrot Bank AG;Stubenbastei 2;1010;Wien;Stubenbastei 2;1010;Wien;;Wien;+43 57070 500 0;;presse@wuestenrot.at;;https://www.wuestenrot.at/index.html;13.05.2019;529900YU8L8AH5QFI983
+Hauptanstalt;24365696;19825;KI;Aktienbanken;515033b;Wüstenrot Bank AG;Stubenbastei 2;1010;Wien;Stubenbastei 2;1010;Wien;;Wien;+43 57070 500 0;;presse@wuestenrot.at;WUSNATWWXXX;https://www.wuestenrot.at/index.html;13.05.2019;529900YU8L8AH5QFI983
 ;86509;1000;;;nullnull;Republik Österreich;Ballhausplatz 2;1010;Wien;;;;;Wien;;;;BUNDATWWXXX;;;529900QWWUI4XRVR7I03
 ;3976874;57100;;Landeshypothekenbanken;171611w;HYPO TIROL BANK AG;Meraner Straße 8;6020;Innsbruck;;;;;Tirol;050700;050700/41000;office@hypotirol.com;HYPTAT22XXX;www.hypotirol.com;10.06.1998;0W5QHUNYV4W7GJO62R27
 ;30937;34923;;Raiffeisen;247579m;Raiffeisenlandesbank Oberösterreich Aktiengesellschaft;Europaplatz 1a;4020;Linz;;;;;Oberösterreich;0732/6596;0732/659622739;internet@rlbooe.at;RZOOAT2LXXX;www.rlbooe.at;31.03.2004;I6SS27Q1Q3385V753S50
