@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 20.02.2023
+SEPA-Verzeichnis-Abfrage vom 27.02.2023
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -15,7 +15,7 @@ Hauptanstalt;266086;34523;KI;Raiffeisen;94574f;Raiffeisenbank Attergau eGen;Atte
 Hauptanstalt;266140;32985;KI;Raiffeisen;55056s;Raiffeisenbank Weinviertel Nordost eGen;Hauptstr. 39;2225;Zistersdorf;Hauptstrasse 39;2225;Zistersdorf;;Niederösterreich;02532/2363;02532/2363-999;info.32985@rbwno.at;RLNWATWWZDF;www.rbwno.at;07.10.1894;529900W1A4T0O6Z1NS59
 Hauptanstalt;285919;35001;KI;Raiffeisen;37217g;Raiffeisenbank Lammertal eGen;Markt 49;5441;Abtenau;;;;;Salzburg;06243/2500;;info@lammertal.raiffeisen.at;RVSAAT2S001;www.lammertal.raiffeisen.at;29.11.1891;529900B1I234XFGXB654
 Hauptanstalt;285935;36368;KI;Raiffeisen;41360z;Raiffeisenbank Sillian eGen;Marktplatz 10;9920;Sillian;;;;;Tirol;04842/6331;05999/36888/52099;raiffeisen@banksillian.at;RZTIAT22368;www.raiffeisenbank-sillian.at;01.01.1897;529900P3CZ7LEADT4B05
-Hauptanstalt;285951;35066;KI;Raiffeisen;67417v;Raiffeisenbank Unken eGen;Unken;5091;Unken;;;;;Salzburg;06589/4235;06589/423513;info@unken.raiffeisen.at;RVSAAT2S066;www.unken.raiffeisen.at;02.02.1920;529900BIJJGJJXO33652
+Hauptanstalt;285951;35066;KI;Raiffeisen;67417v;Raiffeisenbank Unken eGen;Niederland 103;5091;Unken;;;;;Salzburg;06589/4235;06589/423513;info@unken.raiffeisen.at;RVSAAT2S066;www.unken.raiffeisen.at;02.02.1920;529900BIJJGJJXO33652
 Hauptanstalt;285960;35017;KI;Raiffeisen;68012v;Raiffeisenbank Golling-Scheffau-Kellau registrierte Genossenschaft mit beschränkter Haftung;Markt 45;5440;Golling an der Salzach;;;;;Salzburg;06244/5252;06244/525273;info@golling.raiffeisen.at;RVSAAT2S017;www.golling.raiffeisen.at;06.01.1911;529900KN7BJCPCXNHH34
 Hauptanstalt;285978;35029;KI;Raiffeisen;70108a;Raiffeisenbank Kuchl-St. Koloman eGen;Markt 222;5431;Kuchl;;;;;Salzburg;06244/6507;06244/650717;info@kuchl.raiffeisen.at;RVSAAT2S029;www.raiffeisen.at/sbg/kuchl;30.08.1925;529900ZRHSL769NX0G06
 Hauptanstalt;285994;35053;KI;Raiffeisen;71242v;Raiffeisenbank Pinzgau Mitte eGen;Lofererstr.5;5760;Saalfelden am Stein. Meer;;;;;Salzburg;06582/72218;06582/7221821;info@saalfelden.raiffeisen.at;RVSAAT2S053;www.saalfelden.raiffeisen.at;01.01.1902;5299001R65GPN5AW9T45
@@ -877,3 +877,4 @@ Hauptanstalt;24365696;19825;KI;Aktienbanken;515033b;Wüstenrot Bank AG;Stubenbas
 ;3404218;12002;;Aktienbanken;150714p;UniCredit Bank Austria AG;Rothschildplatz 1;1020;Wien;;1011;Wien;35;Wien;050505;050505/56155;info@unicreditgroup.at;BKAUATWWXXX;www.bankaustria.at;18.09.1996;D1HEB8VEU6D9M8ZUXG17
 ;30937;34950;;Raiffeisen;247579m;Raiffeisenlandesbank Oberösterreich Aktiengesellschaft;Europaplatz 1a;4020;Linz;;;;;Oberösterreich;0732/6596;0732/659622739;internet@rlbooe.at;RZOOAT2LXXX;www.rlbooe.at;31.03.2004;I6SS27Q1Q3385V753S50
 ;55166;19931;;Sonderbanken;117507f;Raiffeisen Digital Bank AG;Am Stadtpark 9;1030;Wien;;1015;Wien;272;Wien;01/51520;01/51520290;office@raiffeisendigital.com;CENBATWWRDB;www.raiffeisendigital.com;01.01.1974;529900M2F7D5795H1A49
+;54801;15899;;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 28;4020;Linz;;4010;Linz/Donau;60;Oberösterreich;0732/7802;0732/ 7802 - 32140;office@oberbank.at;OBKLAT2LXXX;www.oberbank.at;01.07.1869;RRUN0TCQ1K2JDV7MXO75
