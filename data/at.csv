@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 07.04.2023
+SEPA-Verzeichnis-Abfrage vom 17.04.2023
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -597,7 +597,7 @@ Hauptanstalt;280194;35021;KI;Raiffeisen;70791f;Raiffeisenbank Wallersee eGen;Hau
 Hauptanstalt;280216;35022;KI;Raiffeisen;69205y;Raiffeisenbank Hallein-Oberalm eGen;Justin-Robert-Platz 1;5400;Hallein;;;;;Salzburg;06245/80465;06245/86760;info@hallein.raiffeisen.at;RVSAAT2S022;www.hallein.raiffeisen.at;07.11.1907;529900EO4WC4F1KM1F38
 Hauptanstalt;280330;35052;KI;Raiffeisen;68022h;Raiffeisenbank Saalbach-Hinterglemm-Viehhofen eGen;Dorfplatz 311;5753;Saalbach-Hinterglemm;;5754;Hinterglemm;;Salzburg;06541/7166;06541/7894;info@saalbach.raiffeisen.at;RVSAAT2S052;www.saalbach.raiffeisen.at;01.01.1892;529900RZCTL7FS07IX41
 Hauptanstalt;280348;35056;KI;Raiffeisen;70850t;Raiffeisenbank St.Gilgen-Fuschl-Strobl eGen;Mozartplatz 4;5340;St. Gilgen;;;;;Salzburg;06227/2269;06227/226911;info@raiffeisenbank-sanktgilgen.at;RVSAAT2S056;www.stgilgen.at;03.02.1902;529900P6ELWHYX9UA822
-Hauptanstalt;280372;35062;KI;Raiffeisen;67421z;Raiffeisenbank Straßwalchen eGen;Salzburger Str. 3;5204;Straßwalchen;;;;;Salzburg;06215/8282;06215/8286;info@strasswalchen.raiffeisen.at;RVSAAT2S062;www.rbstrasswalchen.at;03.11.1895;529900KELJW0X5IGKS48
+Hauptanstalt;280372;35062;KI;Raiffeisen;67421z;Raiffeisenbank Straßwalchen eGen;Salzburger Str. 3;5204;Straßwalchen;;;;;Salzburg;06215/8282;06215/8286;info@strasswalchen.raiffeisen.at;RVSAAT2S062;www.strasswalchen.raiffeisen.at;03.11.1895;529900KELJW0X5IGKS48
 Hauptanstalt;280437;35069;KI;Raiffeisen;71082h;Raiffeisenbank St. Johann-Wagrain-Kleinarl eGen;Ing. Ludwig Pech-Straße 1;5600;St. Johann im Pongau;;;;;Salzburg;06412/6161;06412/6161-19;info@sanktjohann.raiffeisen.at;RVSAAT2S069;www.sanktjohann.raiffeisen.at;01.01.1899;529900TM5Z07RGPDPP86
 Hauptanstalt;1801139;19170;KI;Sonderbanken;90966z;PARTNER BANK AKTIENGESELLSCHAFT;Goethestr. 1a;4020;Linz;;;;;Oberösterreich;0732/6965;0732/666767;info@partnerbank.at;PABAAT2LXXX;www.partnerbank.at;26.05.1992;529900GIW7IGDLAYP075
 Hauptanstalt;1811711;20601;KI;Sparkassen;70339s;Sparkasse Bregenz Bank Aktiengesellschaft;Sparkassenplatz 1;6900;Bregenz;;;;;Vorarlberg;050100/75000;050100/975000;mail@bregenz.sparkasse.at;SPBRAT2BXXX;www.sparkasse.at/bregenz;16.07.1992;529900IZ69LR7SRU9V71
