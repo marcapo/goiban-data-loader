@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 28.04.2023
+SEPA-Verzeichnis-Abfrage vom 08.05.2023
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -290,7 +290,7 @@ Hauptanstalt;127647;18600;KI;Aktienbanken;76096g;Volkskreditbank AG;Rudigierstr.
 Hauptanstalt;134279;20267;KI;Sparkassen;110105w;Wiener Neustädter Sparkasse;Neunkirchnerstraße 4;2700;Wiener Neustadt;;2700;Wiener Neustadt;56;Niederösterreich;050100/20267;;info@wrneustadt.sparkasse.at;WINSATWNXXX;www.sparkasse.at/wrneustadt;01.01.1860;529900TZVDFQV1D69R57
 Hauptanstalt;240141;20603;KI;Sparkassen;64289v;Sparkasse der Gemeinde Egg;Nr. 873;6863;Egg (Vbg.);;;;;Vorarlberg;050100/75500;050100/975500;info@egg.sparkasse.at;SPEGAT21XXX;www.egg.sparkasse.at;14.12.1980;5299007CQAM6HN45CF82
 Hauptanstalt;240150;20607;KI;Sparkassen;248951f;Sparkasse Bludenz Bank AG;Sparkassenplatz 1;6700;Bludenz;;;;;Vorarlberg;050100/77800;050100/977800;info@bludenz.sparkasse.at;SSBLAT21XXX;www.sparkasse.at/bludenz;11.05.2004;5299006FZT79EKTMK255
-Hauptanstalt;243108;36342;KI;Raiffeisen;39646d;Raiffeisenbank Tux eGen;Lanersbach 464;6293;Tux;;;;;Tirol;05287/85330;05287/853375490;raiba.tux@rbgt.raiffeisen.at;RZTIAT22342;www.raibatux.at;28.03.1897;52990001LP4SHV9LRI48
+Hauptanstalt;243108;36342;KI;Raiffeisen;39646d;Raiffeisenbank Tux eGen;Lanersbach 464;6293;Tux;Lanersbach 401;6293;Tux;;Tirol;05287/85330;05287/853375490;raiba.tux@rbgt.raiffeisen.at;RZTIAT22342;www.raibatux.at;28.03.1897;52990001LP4SHV9LRI48
 Hauptanstalt;243159;36378;KI;Raiffeisen;41564z;Raiffeisen Regionalbank Matrei i.O. eGen;Rauterplatz 4;9971;Matrei in Osttirol;;;;;Tirol;04875/6801;04875/680148190;raiba.matrei-osttirol@bankmatrei.at;RZTIAT22378;www.bankmatrei.at;01.09.1894;529900GM7ROAY9MPT913
 ;263966;34126;;Raiffeisen;121230f;Raiffeisenbank Ennstal eGen;Kirchenplatz 11;4452;Ternberg;;;;;Oberösterreich;07256/8842;07256/884288;office@rb-ennstal.at;RZOOAT2L080;www.rb-ennstal.at;28.07.1920;529900VD28IW1IHAKM38
 ;5171741;46660;;Volksbanken;211524s;VOLKSBANK WIEN AG;Dietrichgasse 25;1030;Wien;;;;;Wien;01/40137;01/401377600;mail@volksbankwien.at;VBOEATWWXXX;www.volksbankwien.at;19.06.2001;529900D4CD6DIB3CI904
