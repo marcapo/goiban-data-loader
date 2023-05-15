@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 08.05.2023
+SEPA-Verzeichnis-Abfrage vom 15.05.2023
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -579,7 +579,7 @@ Hauptanstalt;265519;32880;KI;Raiffeisen;75182m;Raiffeisenbank Tulln eGen;Bahnhof
 Hauptanstalt;265527;32901;KI;Raiffeisen;35645w;Raiffeisenbank Vitis eGen;Hauptplatz 30;3902;Vitis;;;;;Niederösterreich;02841/8203;02841/820314;info.32901@rb-32901.raiffeisen.at;RLNWATW1901;www.noe.raiffeisen.at/32901;23.07.1893;529900ZIRPCT06LI2591
 Hauptanstalt;265535;32904;KI;Raiffeisen;35619g;Raiffeisenbank Waidhofen a. d. Thaya eGen;Raiffeisenpromenade 1;3830;Waidhofen an der Thaya;;;;;Niederösterreich;02842/506;02842/5061015;rbwaidhofen@speeding.at;RLNWATWWWTH;www.rbwt.at;06.06.1893;529900Q2R5PBFJM74T48
 Hauptanstalt;265543;32906;KI;Raiffeisen;78842w;Raiffeisenbank Ybbstal eGen;Oberer Stadtplatz 22;3340;Waidhofen an der Ybbs;;;;;Niederösterreich;05/1772;05/1772-4900;office@rby.at;RLNWATWWWHY;www.rby.at;08.01.1898;529900BW63FASOB0IV66
-Hauptanstalt;265586;34442;KI;Raiffeisen;95178v;Raiffeisenbank Peuerbach eGen;Hauptstraße 14/1;4722;Peuerbach;;4722;Peuerbach;22;Oberösterreich;07276/2501;07276/250140429;rb-peuerbach@raiffeisen-ooe.at;RZOOAT2L442;www.raiffeisen-ooe.at/peuerbach;25.03.1923;529900WF4Z4DH3I27N63
+Hauptanstalt;265586;34442;KI;Raiffeisen;95178v;Raiffeisenbank Peuerbach eGen;Hauptstraße 14/1;4722;Peuerbach;Hauptstraße 14/1;4722;Peuerbach;;Oberösterreich;07276/2501;07276/250140429;rb-peuerbach@raiffeisen-ooe.at;RZOOAT2L442;www.raiffeisen-ooe.at/peuerbach;25.03.1923;529900WF4Z4DH3I27N63
 Hauptanstalt;269638;39390;KI;Raiffeisen;118767h;Raiffeisenbank Region Wörthersee eG;Karawankenplatz 2;9220;Velden am Wörther See;Karawankenplatz 2;9220;Velden;;Kärnten;0599939390;0434274252339030;rb.woerthersee@rbgk.raiffeisen.at;RZKTAT2K390;www.raiffeisen.at/ktn/region-woerthersee/de/meine-bank.html;03.03.1912;52990082FUIF8HZHY732
 Hauptanstalt;279021;19140;KI;Aktienbanken;78445k;Bank Gutmann Aktiengesellschaft;Schwarzenbergpl. 16;1010;Wien;;1011;Wien;546;Wien;01/50220;01/50220249;;GUTBATWWXXX;;18.06.1979;549300KFLI6V2PUY8522
 Hauptanstalt;279986;35012;KI;Raiffeisen;71071t;Raiffeisenbank Hohe Tauern eGen;Wilhelm-Fazokas-Straße 2c;5710;Kaprun;;;;;Salzburg;06547/8245-0;06547/8245-33;info@hohetauern.raiffeisen.at;RVSAAT2S012;www.hohetauern.raiffeisen.at;26.06.1893;529900LKC78RCPF4OP49
