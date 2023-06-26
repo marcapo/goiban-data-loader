@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 19.06.2023
+SEPA-Verzeichnis-Abfrage vom 26.06.2023
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -506,7 +506,7 @@ Hauptanstalt;262552;36358;KI;Raiffeisen;38648k;Raiffeisen Bezirksbank Kufstein e
 Hauptanstalt;262579;34214;KI;Raiffeisen;120906d;Raiffeisenbank Kematen-Neuhofen eGen;Steyrer Straße 1;4501;Neuhofen an der Krems;;;;;Oberösterreich;05999/3421401;05999/34909/35172;rb-kematen@raiffeisen-ooe.at;RZOOAT2L214;www.raiffeisen-ooe.at/kematen;01.01.1918;529900DBO0R9X5EZBF88
 Hauptanstalt;264890;34777;KI;Raiffeisen;77682p;Raiffeisenbank Perg eGen;Linzerstr. 14;4320;Perg;;;;;Oberösterreich;07262/57474;;rb-perg@raiffeisen-ooe.at;RZOOAT2L777;www.raiffeisen-ooe.at/perg;14.06.1900;529900YEZT2PSKDO2832
 Hauptanstalt;268046;37474;KI;Raiffeisen;59220p;Raiffeisenbank Weissachtal eGen;Dorf 245;6934;Sulzberg (Vbg.);Dorf 245;6934;Sulzberg;;Vorarlberg;05516/2119;05516/2119590;weissachtal@raiba.at;RVVGAT2B474;www.raibaweissachtal.at;26.11.1893;52990011EY5WB0027820
-Hauptanstalt;268054;37475;KI;Raiffeisen;63303v;Raiffeisenbank Vorderland registrierte Genossenschaft mit beschränkter Haftung;Müsinenstraße 43;6832;Sulz;;6832;Sulz;1;Vorarlberg;05522/42121;05522/42121133;vorderland@raiba.at;RVVGAT2B475;www.vorderlandbank.at;24.10.1892;529900F4PAS0XF12N781
+Hauptanstalt;268054;37475;KI;Raiffeisen;63303v;Raiffeisenbank Vorderland eGen;Müsinenstraße 43;6832;Sulz;;6832;Sulz;1;Vorarlberg;05522/42121;05522/42121133;vorderland@raiba.at;RVVGAT2B475;www.vorderlandbank.at;24.10.1892;529900F4PAS0XF12N781
 Hauptanstalt;268089;37482;KI;Raiffeisen;58994g;Raiffeisenbank am Hofsteig eGen;Kellhofstraße 12;6922;Wolfurt;;;;;Vorarlberg;05574/71766;05574/71766515;hofsteigbank@raiba.at;RVVGAT2B482;www.hofsteigbank.at;01.01.1889;529900E4S292AUEPOA58
 Hauptanstalt;268593;39411;KI;Raiffeisen;113054g;Raiffeisenbank Moosburg-Tigring, registrierte Genossenschaft mit beschränkter Haftung;Klagenfurter Str. 5;9062;Moosburg (Ktn.);;;;;Kärnten;04272/83208;04272/8320810;rb.moosburg@rbgk.raiffeisen.at;RZKTAT2K411;www.raiffeisen.at/ktn/moosburg;03.04.1897;529900NOCM598IG2HZ91
 Hauptanstalt;268607;39412;KI;Raiffeisen;113153b;Raiffeisen Bank Lurnfeld-Mölltal eGen;Hauptstr. 23;9813;Möllbrücke;Hauptstraße 23;9813;Möllbrücke;;Kärnten;04769/2312;04769/2312 9412 31;rb.lurnfeld-moelltal@rbgk.raiffeisen.at;RZKTAT2K412;www.rb-lurnfeld-moelltal.at;01.01.1903;529900A1B1P6M9M0WA86
