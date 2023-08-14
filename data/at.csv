@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 07.08.2023
+SEPA-Verzeichnis-Abfrage vom 14.08.2023
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -738,7 +738,7 @@ Hauptanstalt;256838;38477;KI;Raiffeisen;68209h;Raiffeisenbank Region Graz-Thaler
 ;256781;38375;;Raiffeisen;59660k;Raiffeisenbank Schilcherland eGen;Raiffeisenstraße 1;8530;Deutschlandsberg;;;;;Steiermark;03462/2401;03462/240145;info.38043@rb-deutschlandsberg.at;RZSTAT2G043;www.rb-deutschlandsberg.at;24.05.1931;5299005Z1TY1BALSWA53
 ;280143;35008;;Raiffeisen;70072y;Raiffeisenbank Flachgau Mitte eGen;Dorf 1;5301;Eugendorf;;;;;Salzburg;06225/8236;06225/823635;info@rbflachgaumitte.at;RVSAAT2S015;www.flachgaumitte.raiffeisen.at;17.05.1924;529900N9C4Q1U8GYMT96
 ;280143;35108;;Raiffeisen;70072y;Raiffeisenbank Flachgau Mitte eGen;Dorf 1;5301;Eugendorf;;;;;Salzburg;06225/8236;06225/823635;info@rbflachgaumitte.at;RVSAAT2S015;www.flachgaumitte.raiffeisen.at;17.05.1924;529900N9C4Q1U8GYMT96
-Hauptanstalt;22212191;19888;KI;Aktienbanken;497440f;ICBC Austria Bank GmbH;Kolingasse 4;1090;Wien;;;;;Wien;01 9395588 0;;service@at.icbc.com.cn;ICBKATWWXXX;http://www.icbc-at.com;24.07.2018;529900VJJC1WXQU3Y063
+Hauptanstalt;22212191;19888;KI;Aktienbanken;497440f;ICBC Austria Bank GmbH;Kolingasse 4;1090;Wien;;;;;Wien;01 9395588 0;;office@at.icbc.com.cn;ICBKATWWXXX;http://www.icbc-at.com;24.07.2018;529900VJJC1WXQU3Y063
 ;112097;39358;;Raiffeisen;116094b;Raiffeisenlandesbank Kärnten - Rechenzentrum und Revisionsverband, registrierte Genossenschaft mit beschränkter Haftung;Raiffeisenplatz 1;9020;Klagenfurt;;;;;Kärnten;0463/99300;;info@rbgk.raiffeisen.at;RZKTAT2KXXX;www.rlb-bank.at;03.12.1900;5299009EHB4RBGMI5828
 ;281646;35037;;Raiffeisen;53369i;Raiffeisenbank Lungau eGen;Kirchengasse 9;5580;Tamsweg;;;;;Salzburg;05999/35063;05999/35063;info@rb-lungau.at;RVSAAT2S063;www.rb-lungau.at;05.12.1897;529900PN604MO3H4BI83
 ;259586;38292;;Raiffeisen;53999k;Raiffeisenbank Wildon-Preding eGen;Leibnitzerstraße 1;8410;Wildon;;;;;Steiermark;03182/2565;03182/2565-100;info.38499@rbwildonpreding.at;RZSTAT2G499;www.rbwildonpreding.at;03.01.1900;529900JVGA8OHAQJ2R38
@@ -862,6 +862,8 @@ Hauptanstalt;258571;36200;KI;Raiffeisen;41064p;Raiffeisenbank Absam-Thaur eGen;S
 ;261734;34613;;Raiffeisen;78388b;Raiffeisenbank Aist eGen;Innovationsplatz 2;4224;Wartberg ob der Aist;;;;;Oberösterreich;07236/2317;;office@raiffeisen-aist.at;RZOOAT2L460;www.raiffeisen-aist.at;25.11.1900;529900KUZWNTDRVVC681
 ;265705;32865;;Raiffeisen;107016b;Raiffeisenbank Wr. Neustadt-Schneebergland eGen;Luchspergergasse 2 - 4;2700;Wiener Neustadt;;;;;Niederösterreich;+43 5 70170;;info.32937@rbwnsbl.at;RLNWATWWWRN;www.rbwnsbl.at;31.05.1906;529900PYOALDPA9SZA21
 ;265705;32642;;Raiffeisen;107016b;Raiffeisenbank Wr. Neustadt-Schneebergland eGen;Luchspergergasse 2 - 4;2700;Wiener Neustadt;;;;;Niederösterreich;+43 5 70170;;info.32937@rbwnsbl.at;RLNWATWWWRN;www.rbwnsbl.at;31.05.1906;529900PYOALDPA9SZA21
+;263419;34735;;Raiffeisen;110468d;Raiffeisenbank Region Ried i.I. eGen;Friedrich-Thurner-Straße 14;4910;Ried im Innkreis;;;;;Oberösterreich;07752/84491;07752/8449140625;rb-region-ried@raiffeisen-ooe.at;RZOOAT2L450;www.raiffeisen-ooe.at/region-ried;22.09.1889;529900FVKXNY159SQ550
+;263419;34284;;Raiffeisen;110468d;Raiffeisenbank Region Ried i.I. eGen;Friedrich-Thurner-Straße 14;4910;Ried im Innkreis;;;;;Oberösterreich;07752/84491;07752/8449140625;rb-region-ried@raiffeisen-ooe.at;RZOOAT2L450;www.raiffeisen-ooe.at/region-ried;22.09.1889;529900FVKXNY159SQ550
 Filiale;29029040;19360;ZW;§ 9 Institute;586056y;ING Austria Branch of ING Bank N.V.;Praterstraße 1/Space 35;1020;Wien;;;;;Wien;+43 1 514620;;regulatory.reporting_wbat@ing.com;INGBATWWXXX;https://www.ingwb.com/en/network/emea/austria;;
 Hauptanstalt;24365696;19825;KI;Aktienbanken;515033b;Wüstenrot Bank AG;Stubenbastei 2;1010;Wien;Stubenbastei 2;1010;Wien;;Wien;+43 57070 500 0;;presse@wuestenrot.at;WUSNATWWXXX;https://www.wuestenrot.at/index.html;13.05.2019;529900YU8L8AH5QFI983
 ;86509;1000;;;nullnull;Republik Österreich;Ballhausplatz 2;1010;Wien;;;;;Wien;;;;BUNDATWWXXX;;;529900QWWUI4XRVR7I03
