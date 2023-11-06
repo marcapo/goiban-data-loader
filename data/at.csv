@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 30.10.2023
+SEPA-Verzeichnis-Abfrage vom 06.11.2023
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -234,7 +234,7 @@ Hauptanstalt;259888;32589;KI;Raiffeisen;45757s;Raiffeisenbank Gross Gerungs eGen
 Hauptanstalt;261386;32367;KI;Raiffeisen;98295b;Raiffeisenbank Klosterneuburg eGen;Rathauspl. 7;3400;Klosterneuburg;;;;;Niederösterreich;02243/37677;02243/376771078;info.32367@rbklbg.at;RLNWATWW367;www.rb-klosterneuburg.at;02.01.1965;529900KFTVAVXNKAM044
 Hauptanstalt;261394;34030;KI;Raiffeisen;111229y;Raiffeisenbank Region Altheim eGen;Braunauer Straße 22;4950;Altheim;;;;;Oberösterreich;07723/42319;07723/4231920;rb-altheim@raiffeisen-ooe.at;RZOOAT2L030;www.raiffeisen-ooe.at/region-altheim;18.01.1893;529900C8IAWZ6WEV8M89
 Hauptanstalt;261424;34118;KI;Raiffeisen;111163a;Raiffeisenbank Geretsberg eGen;Geretsberg 3;5132;Geretsberg;;;;;Oberösterreich;07748/7131;05999/34909/32410;rb-geretsberg@raiffeisen-ooe.at;RZOOAT2L118;www.raiffeisen-ooe.at/geretsberg;21.11.1897;52990015I96TLGKUIX18
-Hauptanstalt;209953;76040;KI;Sonderbanken;84409g;card complete Service Bank AG;Lassallestraße 3;1020;Wien;;1011;Wien;147;Wien;01/71111;01/71111147;office@cardcomplete.com;VIAUATW1XXX;www.cardcomplete.com;01.01.1985;529900PFZ21Q6MS9E857
+Hauptanstalt;209953;76040;KI;Sonderbanken;84409g;card complete Service Bank AG;Lassallestraße 3;1020;Wien;;1011;Wien;147;Wien;01/71111;01/71111147;;VIAUATW1XXX;www.cardcomplete.com;01.01.1985;529900PFZ21Q6MS9E857
 Hauptanstalt;256943;38094;KI;Raiffeisen;67407d;Raiffeisenbank Gamlitz eGen;Obere Hauptstraße 210;8462;Gamlitz;Obere Hauptstrasse 210;8462;Gamlitz;;Steiermark;03453/2383;03453/238385;info@rbgamlitz.at;RZSTAT2G094;www.rbgamlitz.at;15.08.1896;5299006WFYWBOMDCHA64
 Hauptanstalt;257575;38151;KI;Raiffeisen;67661b;Raiffeisenbank Ilz-Großsteinbach-Riegersburg eGen;Ilz 39;8262;Ilz;;;;;Steiermark;03385/363;03385/363933;info@rbilz.at;RZSTAT2G151;www.rbilz.at;02.02.1898;529900PPVG3BDSDC4D89
 Hauptanstalt;257613;33038;KI;Raiffeisen;124790s;Raiffeisen Bezirksbank Neusiedl Ost eGen;Untere Hauptstraße 36;2425;Nickelsdorf an der Leitha;;;;;Burgenland;02146/2214;02146/221477;bk-33038-mw@raiffeisen-burgenland.at;RLBBAT2E038;www.raiffeisen.at/neusiedl-ost;01.01.1929;529900R8A17HZU8IB793
@@ -841,7 +841,7 @@ Hauptanstalt;258571;36200;KI;Raiffeisen;41064p;Raiffeisenbank Absam-Thaur-Volder
 ;163201;19210;;Aktienbanken;76198g;bank99 AG;Praterstraße 31;1020;Wien;;;;;Wien;0800 099 099;;operations@bank99.at;SPBAATWWB99;www.bank99.at;01.01.1884;529900RCLERIIXF4QM23
 ;256846;38374;;Raiffeisen;67767h;Raiffeisenbank Mittlere Südoststeiermark eGen;Paldau 40;8341;Paldau;Paldau 40;8341;Paldau;;Steiermark;03150/5150;03150/5150-400;service@genaumeinebank.at;RZSTAT2G075;www.genaumeinebank.at;01.01.1893;529900RQ94JHBXLQYS17
 ;260622;34438;;Raiffeisen;110648v;Raiffeisenbank Eberschwang-Pramet eGen;Eberschwang 116;4906;Eberschwang;;;;;Oberösterreich;07753/2213;07753/221341;office@raiffeisen-eberschwang-pramet.at;RZOOAT2L081;www.raiffeisen-eberschwang-pramet.at;03.12.1929;529900AUJCEJQ71UCR09
-;209953;76022;;Sonderbanken;84409g;card complete Service Bank AG;Lassallestraße 3;1020;Wien;;1011;Wien;147;Wien;01/71111;01/71111147;office@cardcomplete.com;VIAUATW1XXX;www.cardcomplete.com;01.01.1985;529900PFZ21Q6MS9E857
+;209953;76022;;Sonderbanken;84409g;card complete Service Bank AG;Lassallestraße 3;1020;Wien;;1011;Wien;147;Wien;01/71111;01/71111147;;VIAUATW1XXX;www.cardcomplete.com;01.01.1985;529900PFZ21Q6MS9E857
 ;257052;33048;;Raiffeisen;124705s;Raiffeisenbank Region Deutschkreutz-Horitschon eGen;Hauptstraße 49;7301;Deutschkreutz;;;;;Burgenland;02613/80244;02613/8024499;info.33010@raiffeisen-burgenland.at;RLBBAT2E010;www.raiffeisen.at/deutschkreutzhoritschon;05.06.1923;529900ZPKTLPXOZIRG88
 ;281670;35005;;Raiffeisen;70037x;Raiffeisenbank Untersberg eGen;Hauptstraße 28;5082;Grödig;;;;;Salzburg;06246/72261;06246/7226117;info@untersberg.raiffeisen.at;RVSAAT2S018;www.untersberg.raiffeisen.at;21.11.1926;529900TN0TW2D7KQBH06
 ;281670;35105;;Raiffeisen;70037x;Raiffeisenbank Untersberg eGen;Hauptstraße 28;5082;Grödig;;;;;Salzburg;06246/72261;06246/7226117;info@untersberg.raiffeisen.at;RVSAAT2S018;www.untersberg.raiffeisen.at;21.11.1926;529900TN0TW2D7KQBH06
