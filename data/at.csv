@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 01.03.2024
+SEPA-Verzeichnis-Abfrage vom 11.03.2024
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -143,7 +143,7 @@ Hauptanstalt;189448;18170;;;128283b;KA Finanz AG i.A.;Taborstraße 1-3;1020;Wien
 Hauptanstalt;240745;20833;KI;Sparkassen;238688m;Sparkasse Pöllau AG;Hauptplatz 2;8225;Pöllau;;;;;Steiermark;050100/37431;050100/937400;info@poellau.sparkasse.at;SPPLAT21XXX;www.sparkasse-poellau.at;21.08.2003;529900XW4Z6DFWK42X08
 Hauptanstalt;256765;38460;KI;Raiffeisen;73487w;Raiffeisenbank Leoben-Bruck eGen;Grazerstraße 63;8605;Kapfenberg;;;;;Steiermark;050460;050460/58910;info.38460@rblb.at;RZSTAT2G460;www.rblb.at;01.01.1899;529900GC5ZDA0LHHIK36
 Hauptanstalt;256781;38043;KI;Raiffeisen;59660k;Raiffeisenbank Schilcherland eGen;Raiffeisenstraße 1;8530;Deutschlandsberg;;;;;Steiermark;03462/2401;03462/240145;info.38043@rb-schilcherland.at;RZSTAT2G043;www.rb-schilcherland.at;24.05.1931;5299005Z1TY1BALSWA53
-Hauptanstalt;257150;38111;KI;Raiffeisen;47006b;Raiffeisenbank Gratkorn eGen;Grazer Straße 5;8101;Gratkorn;;;;;Steiermark;03124/22227;03124/2222733;info.38111@rbgratkorn.at;RZSTAT2G111;www.rbgratkorn.at;09.08.1896;529900R2QL3C2AINYG94
+Hauptanstalt;257150;38111;KI;Raiffeisen;47006b;Raiffeisenbank Gratkorn eGen;Grazer Straße 5;8101;Gratkorn;;;;;Steiermark;03124/22227;03124/2222740155;info.38111@rbgratkorn.at;RZSTAT2G111;www.rbgratkorn.at;09.08.1896;529900R2QL3C2AINYG94
 Hauptanstalt;257249;38113;KI;Raiffeisen;82869t;Raiffeisenbank Schladming-Gröbming eGen;Hauptstraße 279;8962;Gröbming;Hauptstraße 279;8962;Gröbming;;Steiermark;+43 3685 22234;+43 3685 22234-207;info.38113@38113.at;RZSTAT2G113;www.raiffeisen.at/schladming-groebming;01.01.1902;529900OB49JFT03YO325
 Hauptanstalt;258598;33078;KI;Raiffeisen;124715f;Raiffeisenbank Purbach eGen;Hauptgasse 19;7083;Purbach am Neusiedlersee;;;;;Burgenland;02683/7036;02683/703620;info.33078@raiffeisen-burgenland.at;RLBBAT2E078;www.raiffeisen.at/purbach;30.06.1927;5299007BZWKYYR5NCU63
 Hauptanstalt;261173;34111;KI;Raiffeisen;78373f;Raiffeisenbank Region Gallneukirchen eGen;Reichenauerstr. 6-8;4210;Gallneukirchen;;;;;Oberösterreich;07235/62320;07235/6232031830;rb-region-gallneukirchen@raiffeisen-ooe.at;RZOOAT2L111;www.raiffeisen-ooe.at/gallneukirchen;27.11.1898;529900RK0V6Z8BYXRO14
@@ -798,7 +798,7 @@ Hauptanstalt;285862;35034;KI;Raiffeisen;68047w;Raiffeisenbank Salzburg Liefering
 ;267422;37429;;Raiffeisen;59672d;Raiffeisenbank Montfort eGen;Bahnhofstraße 2;6830;Rankweil;;;;;Vorarlberg;05522/42301;05522/42301120;montfort@raiba.at;RVVGAT2B422;www.raibamontfort.at;17.11.1899;529900QPSJDW4Z12VO64
 ;267422;37402;;Raiffeisen;59672d;Raiffeisenbank Montfort eGen;Bahnhofstraße 2;6830;Rankweil;;;;;Vorarlberg;05522/42301;05522/42301120;montfort@raiba.at;RVVGAT2B422;www.raibamontfort.at;17.11.1899;529900QPSJDW4Z12VO64
 ;267422;37461;;Raiffeisen;59672d;Raiffeisenbank Montfort eGen;Bahnhofstraße 2;6830;Rankweil;;;;;Vorarlberg;05522/42301;05522/42301120;montfort@raiba.at;RVVGAT2B422;www.raibamontfort.at;17.11.1899;529900QPSJDW4Z12VO64
-Filiale;24516880;94648;EZ;Zahlungsinstitute;517529y;Viva Payment Services S.A. Zweigniederlassung Wien/Österreich;Gate 1 / 6. OG / Top AH -;1200;Wien;;;;;Wien;;;;VPAYATW2XXX;;;2138007FZ35BCMQYQ162
+Filiale;24516880;94648;EZ;Zahlungsinstitute;517529y;Viva Payment Services Single Member S.A. Zweigniederlassung Wien/ Österreich;Gate 1 / 6. OG / Top AH -;1200;Wien;;;;;Wien;;;;VPAYATW2XXX;;;2138007FZ35BCMQYQ162
 Filiale;25899856;19515;ZW;§ 9 Institute;538794w;Stellantis Bank SA Niederlassung Österreich;Groß-Enzersdorfer Straße 59;1220;Wien;;;;;Wien;0720 204070;;info@opelbank.at;OPBAATW2XXX;www.opelbank.at;;5299005FT5U0QSJSN049
 ;256927;38122;;Raiffeisen;59121v;Raiffeisenbank Region Fürstenfeld eGen;Stadt-Zug-Platz 4;8280;Fürstenfeld;;;;;Steiermark;03382/52363;03382/5236318;office@rbfuerstenfeld.at;RZSTAT2G077;www.rbfuerstenfeld.at;31.07.1926;529900KM8P1Q4L0HCX48
 Filiale;26709481;19835;ZW;§ 9 Institute;547791a;Ford Bank GmbH, Zweigniederlassung Österreich;Sterneckstraße 31-33;5020;Salzburg;Sterneckstraße 31-33;5021;Salzburg;;Salzburg;0662/6560;0662/6560555;fceinfo@ford.com;FAZFAT21XXX;www.ford.at;;
