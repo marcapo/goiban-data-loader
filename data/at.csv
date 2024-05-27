@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 17.05.2024
+SEPA-Verzeichnis-Abfrage vom 27.05.2024
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -414,7 +414,7 @@ Hauptanstalt;260916;36362;KI;Raiffeisen;41436k;Raiffeisen Regionalbank Hall in T
 Hauptanstalt;260932;36241;KI;Raiffeisen;40801b;Raiffeisenbank Hippach-Hart eGen;Raiffeisenplatz 1;6284;Ramsau im Zillertal;;;;;Tirol;05282/3751;05282/375170895;info@rbhh.tirol;RZTIAT22241;www.rbhh.tirol;01.01.1907;529900KGROBWC23LXL85
 Hauptanstalt;75787;20602;KI;Sparkassen;223707g;Dornbirner Sparkasse Bank AG;Sparkassenplatz 1;6850;Dornbirn;;6850;Dornbirn;18;Vorarlberg;050100/74000;050100/974000;service@dornbirn.sparkasse.at;DOSPAT2DXXX;www.sparkasse.at/dornbirn;15.05.2002;529900HC8KY7N0HNY191
 Hauptanstalt;75930;20604;KI;Sparkassen;64331f;Sparkasse der Stadt Feldkirch;Sparkassenplatz 1;6800;Feldkirch;;6800;Feldkirch;50;Vorarlberg;050100/43600;050100/943600;info@feldkirch.sparkasse.at;SPFKAT2BXXX;www.sparkasse.at/feldkirch;01.01.1842;5299007FR13EUF82L493
-Hauptanstalt;247502;38133;KI;Raiffeisen;66741z;Raiffeisenbank Hausmannstätten eGen;Hausmannstätten;8071;Hausmannstätten;Grazer Straße 6;8071;Hausmannstätten;;Steiermark;031354621241;03135/4621291;anita.weingraber@rb-38133.raiffeisen.at;RZSTAT2G133;www.raiffeisen.at/hausmannstaetten;10.04.1894;529900BE5LJFTFGTT751
+Hauptanstalt;247502;38133;KI;Raiffeisen;66741z;Raiffeisenbank Hausmannstätten eGen;Grazer Staße 6;8071;Hausmannstätten;Grazer Straße 6;8071;Hausmannstätten;;Steiermark;031354621241;03135/4621291;anita.weingraber@rb-38133.raiffeisen.at;RZSTAT2G133;www.raiffeisen.at/hausmannstaetten;10.04.1894;529900BE5LJFTFGTT751
 Hauptanstalt;257052;33010;KI;Raiffeisen;124705s;Raiffeisenbank Region Deutschkreutz-Horitschon eGen;Hauptstraße 49;7301;Deutschkreutz;;;;;Burgenland;02613/80244;02613/8024499;info.33010@raiffeisen-burgenland.at;RLBBAT2E010;www.raiffeisen.at/deutschkreutzhoritschon;05.06.1923;529900ZPKTLPXOZIRG88
 Hauptanstalt;257079;33012;KI;Raiffeisen;124097x;Raiffeisenbank Neusiedlersee-Hügelland eGen;Hauptstraße 39;7082;Donnerskirchen;;;;;Burgenland;02683/8686;02683/86869013;info.33012@raiffeisen-burgenland.at;RLBBAT2E012;www.rb-neusiedlersee-hügelland.at;01.03.1926;529900O1U4B6CE4BZD76
 Hauptanstalt;258334;38370;KI;Raiffeisen;54019s;Raiffeisenbank Mureck eGen;Hauptplatz 8;8480;Mureck;Hauptplatz 8;8480;Mureck;;Steiermark;03472/2025;03472/202526;info@rbmureck.at;RZSTAT2G370;www.rbmureck.at;16.06.1900;52990059EQPS5XDTSY92
