@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 10.06.2024
+SEPA-Verzeichnis-Abfrage vom 17.06.2024
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -446,7 +446,7 @@ Hauptanstalt;244635;20241;KI;Sparkassen;110111d;Sparkasse Neunkirchen;Hauptplatz
 Hauptanstalt;17656508;20219;KI;Sparkassen;418359i;Sparkasse Herzogenburg-Neulengbach Bank Aktiengesellschaft;Rathausplatz 9-10;3130;Herzogenburg;;;;;Niederösterreich;050100/25100;050100/925100;spk@herzogenburg.sparkasse.at;SPHEAT21XXX;www.sparkasse.at/herzogenburg;26.05.2014;529900LC50TXB405RY86
 ;256811;38503;;Raiffeisen;59179d;Raiffeisenbank Süd-Weststeiermark eGen;Oberer Markt 9;8551;Wies (Stmk.);;;;;Steiermark;03465/22030;03465/2203340;info.38056@rb-38056.raiffeisen.at;RZSTAT2G056;www.raiffeisen.at/sued-weststeiermark;10.05.1910;529900S7RDLH962SLR89
 Hauptanstalt;5171741;43000;KI;Volksbanken;211524s;VOLKSBANK WIEN AG;Dietrichgasse 25;1030;Wien;;;;;Wien;01/40137;01/401377600;mail@volksbankwien.at;VBOEATWWXXX;www.volksbankwien.at;19.06.2001;529900D4CD6DIB3CI904
-Hauptanstalt;1629387;52000;KI;Landeshypothekenbanken;245157a;Austrian Anadi Bank AG;Domgasse 5;9020;Klagenfurt;;9010;Klagenfurt;517;Kärnten;050202;050202/3000;austrian@anadibank.com;HAABAT2KXXX;https://anadibank.com/de;31.08.1991;529900DADVVDC7X65L89
+Hauptanstalt;1629387;52000;KI;Landeshypothekenbanken;245157a;Austrian Anadi Bank AG;Inglitschstraße 5A;9020;Klagenfurt am Wörthersee;;9010;Klagenfurt;517;Kärnten;050202;050202/3000;austrian@anadibank.com;HAABAT2KXXX;https://anadibank.com/de;31.08.1991;529900DADVVDC7X65L89
 ;258210;32291;;Raiffeisen;46074g;Raiffeisenbank Wagram-Schmidatal eGen;Bahnhofstraße 25;3462;Absdorf;;;;;Niederösterreich;059633;059633/9999;info.32002@rbws.at;RLNWATW1002;www.rbws.at;08.01.1899;529900TXERM62NN2XR18
 ;258075;38076;;Raiffeisen;56745z;Raiffeisenbank Aichfeld eGen;Kärntner Straße 2;8720;Knittelfeld;;;;;Steiermark;03512/84550;03512/84550505;info@rbaichfeld.at;RZSTAT2G346;www.rbaichfeld.at;15.07.1900;529900KKMSLF6I7F5T86
 ;243078;33046;;Raiffeisen;124617k;Raiffeisenbank Burgenland Mitte eGen;Hauptstraße 34;7350;Oberpullendorf;;;;;Burgenland;05 0753;050753 8101;info.33065@rbbm.at;RLBBAT2E065;www.raiffeisen.at/burgenland-mitte;14.08.1928;529900ZLDHV67QISV317
