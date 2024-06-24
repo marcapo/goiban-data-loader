@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 17.06.2024
+SEPA-Verzeichnis-Abfrage vom 24.06.2024
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -613,7 +613,7 @@ Hauptanstalt;1818627;20317;KI;Sparkassen;98219s;Sparkasse Lambach Bank Aktienges
 Hauptanstalt;1831828;20839;KI;Sparkassen;49341k;Sparkasse Voitsberg-Köflach Bankaktiengesellschaft;Bahnhofstraße 2;8570;Voitsberg;Bahnhofstraße 2;8570;Voitsberg;;Steiermark;050100/37500;050100/937500;info@voitsberg-koeflach.sparkasse.at;SPVOAT21XXX;www.sparkasse.at/voitsberg-koeflach/home;16.06.1992;529900ZOABQITI07W206
 Filiale;4910893;19675;ZW;§ 9 Institute;327326m;Commerzbank AG Niederlassung Wien;Hietzinger Kai 101-105;1130;Wien;;1131;Wien;148;Wien;01/50672 0;01/50672222;info.vienna@commerzbank.com;COBAATWXXXX;www.commerzbank.at;;
 Hauptanstalt;9371001;76520;KI;Aktienbanken;330441v;Liechtensteinische Landesbank (Österreich) AG;Hessgasse 1;1010;Wien;;;;;Wien;01/53616;01/53616900;llb@llb.at;COPRATWWXXX;www.llb.at;03.12.2009;529900MZNQDC3A3WSZ72
-Filiale;9529829;19480;ZW;§ 9 Institute;334642x;flatexDEGIRO Bank AG;Opernring 1/736;1010;Wien;Gadollaplatz 1;8010;Graz;;Wien;01/20577100;01/205771099;kundeninfo@flatexdegiro.com;BIIWATWWXXX;https://flatexdegiro.com/;;
+Filiale;9529829;19480;ZW;§ 9 Institute;334642x;flatexDEGIRO Bank AG;Gadollaplatz 1;8010;Graz;Gadollaplatz 1;8010;Graz;;Steiermark;01/20577100;01/205771099;kundeninfo@flatexdegiro.com;BIIWATWWXXX;https://flatexdegiro.com/;;
 Hauptanstalt;1607650;31000;KI;Raiffeisen;122119m;Raiffeisen Bank International AG;Am Stadtpark 9;1030;Wien;;1011;Wien;50;Wien;01/71707;01/717071715;ir@rbinternational.com;RZBAATWWXXX;www.rbinternational.com;11.10.2010;9ZHRYM6F437SQJ6OUG95
 Hauptanstalt;83470;44800;KI;Volksbanken;352685f;Volksbank Oberösterreich AG;Pfarrgasse 5;4600;Wels;Pfarrgasse 5;4600;Wels;;Oberösterreich;07242/495;07242/49597;office@vb-ooe.at;VBOEATWWOOE;www.vb-ooe.at;07.09.2010;5299002O43DCLC2NJV75
 Filiale;11062428;19420;ZW;§ 9 Institute;367767i;RCI Banque SA, Niederlassung Österreich;Laaer Berg-Straße 64;1100;Wien;Laaer Berg Straße 64;1100;Wien;;Wien;01/68030;01/68030180;;RCNOATW1XXX;;;529900EL3KKJRKOK2637
