@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 09.09.2024
+SEPA-Verzeichnis-Abfrage vom 13.09.2024
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -79,7 +79,7 @@ Hauptanstalt;263966;34080;KI;Raiffeisen;121230f;Raiffeisenbank Ennstal eGen;Kirc
 Hauptanstalt;264083;34770;KI;Raiffeisen;93799s;Raiffeisenbank Wels Süd eGen;P.-B.-Rodlbergerstraße 25;4600;Thalheim bei Wels;;;;;Oberösterreich;07242/66326;07242/6632647850;office@raiffeisenbank-wels-sued.at;RZOOAT2L770;www.raiffeisenbank-wels-sued.at;02.03.1909;529900IE8J660F7TG961
 Hauptanstalt;266655;34300;KI;Raiffeisen;77626g;Raiffeisenbank Region Neufelden eGen;Markt 17;4113;St. Martin im Mühlkreis;Markt 17;4113;St. Martin im Mühlkreis;;Oberösterreich;+43 7232 2232 0;;office@rbneufelden.at;RZOOAT2L300;www.rbneufelden.at;15.01.1900;529900XUR3TQNOWU1A10
 Hauptanstalt;266710;39257;KI;Raiffeisen;110960b;Raiffeisenbank Arnoldstein-Fürnitz eG;Gemeindeplatz 2;9601;Arnoldstein;;9601;Arnoldstein;9;Kärnten;04255/3343;04255/3343925718;rb.arnoldstein@rbgk.raiffeisen.at;RZKTAT2K257;www.rbaf.at;15.11.1900;529900OL5NTOFKSAFG74
-Hauptanstalt;266728;34540;KI;Raiffeisen;110732t;Raiffeisenbank St. Roman eGen;Altendorf 29;4793;St. Roman bei Schärding;Altendorf 7;4793;St. Roman;;Oberösterreich;07716/7363;07716/736324;rb-st.roman@raiffeisen-ooe.at;RZOOAT2L540;www.raiffeisen-ooe.at/st-roman;11.09.1908;529900AIY0IED6IR0W74
+Hauptanstalt;266728;34540;KI;Raiffeisen;110732t;Raiffeisenbank St. Roman eGen;Altendorf 7;4793;St. Roman bei Schärding;Altendorf 7;4793;St. Roman;;Oberösterreich;07716/7363;07716/736324;rb-st.roman@raiffeisen-ooe.at;RZOOAT2L540;www.raiffeisen-ooe.at/st-roman;11.09.1908;529900AIY0IED6IR0W74
 Hauptanstalt;266809;39267;KI;Raiffeisen;110971v;Raiffeisen-Bezirksbank Spittal/Drau, registrierte Genossenschaft mit beschränkter Haftung;Burgplatz 2;9800;Spittal an der Drau;;9800;Spittal/Drau;22;Kärnten;04762/61701;04762/6170120;rbb.spittal-drau@rbgk.raiffeisen.at;RZKTAT2K267;www.raiffeisen.at/ktn;10.12.1902;529900LYL30YXPC9A987
 Hauptanstalt;3574865;31500;KI;Raiffeisen;156992x;NOTARTREUHANDBANK AG;Landesgerichtsstraße 20;1010;Wien;;;;;Wien;01/5356886;01/5356886250;office@ntbag.at;NTBAATWWXXX;www.notartreuhandbank.at;04.03.1997;529900RVK6LBT03TLA42
 Hauptanstalt;3613640;54000;KI;Landeshypothekenbanken;157656y;Oberösterreichische Landesbank Aktiengesellschaft;Landstr. 38;4010;Linz;;4010;Linz;259;Oberösterreich;0732/7639;0732/7639205;office@hypo-ooe.at;OBLAAT2LXXX;http://www.hypo.at;21.04.1997;529900BI5KIGX6YLX375
