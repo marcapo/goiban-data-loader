@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 11.11.2024
+SEPA-Verzeichnis-Abfrage vom 18.11.2024
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;05999/3688872090;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;05999/34909/44615;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -356,7 +356,7 @@ Hauptanstalt;264717;34732;KI;Raiffeisen;77850k;Raiffeisenbank Walding-Ottensheim
 Hauptanstalt;264822;34738;KI;Raiffeisen;121568b;Raiffeisenbank Wartberg an der Krems eGen;Hauptstr. 23;4552;Wartberg an der Krems;Hauptstraße 23;4552;Wartberg an der Krems;;Oberösterreich;07587/7060;;rb-wartberg@raiffeisen-ooe.at;RZOOAT2L738;www.rbw.at;01.12.1901;5299007DEXXIPXREO072
 Hauptanstalt;264849;32585;KI;Raiffeisen;74508x;Raiffeisenbank Region St. Pölten eGen;Kremser Landstraße 18;3100;St. Pölten;;3100;St. Pölten;11;Niederösterreich;0595005;0595005/9000;info@rbstp.at;RLNWATWWOBG;www.rbstp.at;26.02.1875;529900YKWSR6JLGDW672
 Hauptanstalt;267740;37431;KI;Raiffeisen;63256z;Raiffeisenbank Bodensee-Leiblachtal eGen;Seestraße 1;6971;Hard (Vbg.);;;;;Vorarlberg;05574/6856;05574/6856124;Bodenseebank@raiba.at;RVVGAT2B431;www.bodenseebank.at;01.01.1893;529900W4Z3RNACRRNH50
-Hauptanstalt;267767;37449;KI;Raiffeisen;59694k;Raiffeisenbank Lech am Arlberg eGen;Haus Nr. 90;6764;Lech;;;;;Vorarlberg;05583/2626;05583/2626150;raiba.lech@lechbank.com;RVVGAT2B449;www.lechbank.com;02.09.1900;529900HI0747ZYOLS056
+Hauptanstalt;267767;37449;KI;Raiffeisen;59694k;Raiffeisenbank Lech am Arlberg eGen;Dorf 90;6764;Lech;;;;;Vorarlberg;05583/2626;05583/2626150;raiba.lech@lechbank.com;RVVGAT2B449;www.lechbank.com;02.09.1900;529900HI0747ZYOLS056
 Hauptanstalt;267856;37458;KI;Raiffeisen;63107f;RAIFFEISENBANK im Walgau eGen;Bahnhofstraße 2;6710;Nenzing;;6710;Nenzing;12;Vorarlberg;05525/6911;05525/6911509;info.walgau@raiba.at;RVVGAT2B458;www.raibawalgau.at;01.01.1897;529900XI27JP2V48OI16
 Hauptanstalt;267970;37468;KI;Raiffeisen;59048k;Raiffeisenbank Bludenz-Montafon eGen;Werdenbergerstraße 9;6700;Bludenz;;6700;Bludenz;24;Vorarlberg;05552/6153-100;05552/6153-199;bludenz-montafon@raiba.at;RVVGAT2B468;www.raiba-bludenz-montafon.at;13.03.1892;529900YZ7SCJRD675M60
 Hauptanstalt;1481118;20272;KI;Sparkassen;36924a;Waldviertler Sparkasse Bank AG;Sparkassenplatz 3;3910;Zwettl;Sparkassenplatz 3;3910;Zwettl;;Niederösterreich;050100/79300;050100/979300;nicole.hammerschmidt@wspk.at;SPZWAT21XXX;www.wspk.at;25.08.1990;529900K5H0F7K9SBO784
