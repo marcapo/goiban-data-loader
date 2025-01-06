@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 30.12.2024
+SEPA-Verzeichnis-Abfrage vom 03.01.2025
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -38,7 +38,7 @@ Hauptanstalt;325317;35030;KI;Raiffeisen;68161m;Raiffeisenbank Flachgau Nord eGen
 Hauptanstalt;326410;35007;KI;Raiffeisen;68092k;Raiffeisenbank Anthering - Elixhausen eGen;Salzburger Straße 6;5102;Anthering;;;;;Salzburg;06223/2227;;info@anthering-elixhausen.raiffeisen.at;RVSAAT2S007;www.anthering-elixhausen.raiffeisen.at;01.10.1913;529900PY8HJ7S90H3468
 Hauptanstalt;326437;35016;KI;Raiffeisen;71078b;Raiffeisenbank Faistenau-Hintersee eGen;Am Lindenplatz 2;5324;Faistenau;;;;;Salzburg;06228/2220;;info@faistenau.raiffeisen.at;RVSAAT2S016;www.faistenau.raiffeisen.at;27.01.1901;529900SBTI63M33ETL90
 Hauptanstalt;2632675;20334;KI;Sparkassen;137919y;Sparkasse Mühlviertel-West Bank Aktiengesellschaft;Stadtplatz 24;4150;Rohrbach-Berg;;4150;Rohrbach-Berg;2;Oberösterreich;050100/42800;;smw@smw.at;SMWRAT21XXX;www.sparkasse.at/smw;25.09.1995;529900JJ5V5FF6B1BP91
-Filiale;2673665;19100;ZW;§ 9 Institute;140266z;Deutsche Bank Aktiengesellschaft Filiale Wien;Fleischmarkt 1;1010;Wien;;1013;Wien;8;Wien;01/531810;;;DEUTATWWXXX;www.db.com;23.08.1996;
+Filiale;2673665;19100;ZW;§ 9 Institute;140266z;Deutsche Bank Aktiengesellschaft Filiale Wien;Fleischmarkt 1;1010;Wien;;1013;Wien;8;Wien;01/531810;;deutsche.bank@db.com;DEUTATWWXXX;www.db.com;23.08.1996;
 ;54801;15095;;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 28;4020;Linz;;4010;Linz/Donau;60;Oberösterreich;0732/7802;;office@oberbank.at;OBKLAT2LXXX;www.oberbank.at;01.07.1869;RRUN0TCQ1K2JDV7MXO75
 ;54801;15110;;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 28;4020;Linz;;4010;Linz/Donau;60;Oberösterreich;0732/7802;;office@oberbank.at;OBKLAT2LXXX;www.oberbank.at;01.07.1869;RRUN0TCQ1K2JDV7MXO75
 ;54801;15120;;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 28;4020;Linz;;4010;Linz/Donau;60;Oberösterreich;0732/7802;;office@oberbank.at;OBKLAT2LXXX;www.oberbank.at;01.07.1869;RRUN0TCQ1K2JDV7MXO75
@@ -322,7 +322,7 @@ Hauptanstalt;265047;32447;KI;Raiffeisen;75316i;Raiffeisenbank Traisen-Gölsental
 ;5171741;43610;;Volksbanken;211524s;VOLKSBANK WIEN AG;Dietrichgasse 25;1030;Wien;;;;;Wien;01/40137;;mail@volksbankwien.at;VBOEATWWXXX;www.volksbankwien.at;19.06.2001;529900D4CD6DIB3CI904
 ;5171741;44570;;Volksbanken;211524s;VOLKSBANK WIEN AG;Dietrichgasse 25;1030;Wien;;;;;Wien;01/40137;;mail@volksbankwien.at;VBOEATWWXXX;www.volksbankwien.at;19.06.2001;529900D4CD6DIB3CI904
 ;269379;39483;;Raiffeisen;119565g;Raiffeisenbank Region Villach eG;Nikolaig. 4;9500;Villach;Nikolaigasse 4;9500;Villach;;Kärnten;+43 4242 24943;;info@rbvillach.at;RZKTAT2K496;www.rbvillach.at;27.01.1893;529900UVX2XR8Y4ZUQ97
-Filiale;18994016;19540;ZW;§ 9 Institute;442863w;Bank of China (Central and Eastern Europe) Limited Vienna Branch;Schottenring 18;1010;Wien;Schottenring 18;1010;Wien;;Wien;01/53666;;;BKCHATWWXXX;;;
+Filiale;18994016;19540;ZW;§ 9 Institute;442863w;Bank of China (Central and Eastern Europe) Limited Vienna Branch;Schottenring 18;1010;Wien;Schottenring 18;1010;Wien;;Wien;01/53666;;report.at@bankofchina.com;BKCHATWWXXX;https://www.bankofchina.com/at/en/index.html;;
 Hauptanstalt;264440;32715;KI;Raiffeisen;55954k;Raiffeisenkasse Retz-Pulkautal eGen;Hauptplatz 33;2070;Retz;;;;;Niederösterreich;02942/2992;;info.32715@rb-32715.raiffeisen.at;RLNWATW1715;www.raiffeisen.at/retz;28.07.1896;5299003KMEKIYNEIJN24
 Hauptanstalt;267260;37401;KI;Raiffeisen;63097s;Raiffeisenbank Alberschwende eGen;Hof 18;6861;Alberschwende;;;;;Vorarlberg;05579/4204;;alberschwende@raiba.at;RVVGAT2B401;www.raiba-alberschwende.at;01.01.1894;529900B8ZPQXSPCLTD68
 Hauptanstalt;267295;37406;KI;Raiffeisen;59081i;Raiffeisenbank Bezau-Mellau-Bizau eGen;Nr. 398;6870;Bezau;;;;;Vorarlberg;05514/2345;;bmb@raiba.at;RVVGAT2B406;raiba-bmb.at;01.01.1893;529900OCERC8S9IGQJ90
