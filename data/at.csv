@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 03.01.2025
+SEPA-Verzeichnis-Abfrage vom 13.01.2025
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -441,7 +441,7 @@ Hauptanstalt;244635;20241;KI;Sparkassen;110111d;Sparkasse Neunkirchen;Hauptplatz
 ;54801;15096;;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 28;4020;Linz;;4010;Linz/Donau;60;Oberösterreich;0732/7802;;office@oberbank.at;OBKLAT2LXXX;www.oberbank.at;01.07.1869;RRUN0TCQ1K2JDV7MXO75
 ;54801;15097;;Aktienbanken;79063w;Oberbank AG;Untere Donaulände 28;4020;Linz;;4010;Linz/Donau;60;Oberösterreich;0732/7802;;office@oberbank.at;OBKLAT2LXXX;www.oberbank.at;01.07.1869;RRUN0TCQ1K2JDV7MXO75
 ;1787578;45850;;Volksbanken;42236m;Volksbank Tirol AG;Meinhardstraße 1;6020;Innsbruck;;6021;Innsbruck;522;Tirol;050566-3000;;office@volksbank.tirol;VBOEATWWINN;www.volksbank.tirol;25.05.1992;529900CYHTDIZTXAFW51
-Hauptanstalt;17656508;20219;KI;Sparkassen;418359i;Sparkasse Herzogenburg-Neulengbach Bank Aktiengesellschaft;Rathausplatz 9-10;3130;Herzogenburg;;;;;Niederösterreich;050100/25100;;spk@herzogenburg.sparkasse.at;SPHEAT21XXX;www.sparkasse.at/herzogenburg;26.05.2014;529900LC50TXB405RY86
+Hauptanstalt;17656508;20219;KI;Sparkassen;418359i;Sparkasse Herzogenburg-Neulengbach Bank Aktiengesellschaft;Rathausplatz 9-10;3130;Herzogenburg;;;;;Niederösterreich;050100/25100;;info@spkherzogenburg.at;SPHEAT21XXX;www.sparkasse.at/herzogenburg;26.05.2014;529900LC50TXB405RY86
 ;256811;38503;;Raiffeisen;59179d;Raiffeisenbank Süd-Weststeiermark eGen;Oberer Markt 9;8551;Wies (Stmk.);;;;;Steiermark;03465/22030;;info.38056@rb-38056.raiffeisen.at;RZSTAT2G056;www.raiffeisen.at/sued-weststeiermark;10.05.1910;529900S7RDLH962SLR89
 Hauptanstalt;5171741;43000;KI;Volksbanken;211524s;VOLKSBANK WIEN AG;Dietrichgasse 25;1030;Wien;;;;;Wien;01/40137;;mail@volksbankwien.at;VBOEATWWXXX;www.volksbankwien.at;19.06.2001;529900D4CD6DIB3CI904
 Hauptanstalt;1629387;52000;KI;Landeshypothekenbanken;245157a;Austrian Anadi Bank AG;Inglitschstraße 5A;9020;Klagenfurt am Wörthersee;;9010;Klagenfurt;517;Kärnten;050202;;austrian@anadibank.com;HAABAT2KXXX;https://anadibank.com/de;31.08.1991;529900DADVVDC7X65L89
@@ -676,7 +676,7 @@ Hauptanstalt;259764;36990;KI;Raiffeisen;41584d;Raiffeisenbank Oberland-Reutte eG
 ;241407;20225;;Sparkassen;110121v;Sparkasse Baden;Hauptplatz 15;2500;Baden bei Wien;;2500;Baden/Wien;109;Niederösterreich;050100/72000;;info@sparkassebaden.at;SPBDAT21XXX;www.sparkassebaden.at;14.05.1980;549300X1FFW399TI1820
 ;256811;38407;;Raiffeisen;59179d;Raiffeisenbank Süd-Weststeiermark eGen;Oberer Markt 9;8551;Wies (Stmk.);;;;;Steiermark;03465/22030;;info.38056@rb-38056.raiffeisen.at;RZSTAT2G056;www.raiffeisen.at/sued-weststeiermark;10.05.1910;529900S7RDLH962SLR89
 ;256846;38171;;Raiffeisen;67767h;Raiffeisenbank Mittlere Südoststeiermark eGen;Paldau 40;8341;Paldau;Paldau 40;8341;Paldau;;Steiermark;03150/5150;;service@genaumeinebank.at;RZSTAT2G075;www.genaumeinebank.at;01.01.1893;529900RQ94JHBXLQYS17
-Filiale;18982565;18140;ZW;§ 9 Institute;443741k;Citibank Europe plc, Austria Branch;Kärntner Ring 11-13/7/2/3;1010;Wien;;;;;Wien;01/717170;;;CITIATWXXXX;;;
+Filiale;18982565;18140;ZW;§ 9 Institute;443741k;Citibank Europe plc, Austria Branch;Kärntner Ring 11-13/7/2/3;1010;Wien;;;;;Wien;01/717170;;office.at@citi.com;CITIATWXXXX;https://www.citigroup.com/global/about-us/global-presence/austria;;
 ;247383;36276;;Raiffeisen;38171i;Raiffeisenbank Tirol Mitte West eGen;Untermarktstr. 3;6410;Telfs;Untermarktstraße 3;6410;Telfs;;Tirol;05262/6981;;info@rbm.tirol;RZTIAT22336;www.rbm.tirol;01.10.1893;529900MNB4WYVQMHEP34
 ;247375;36254;;Raiffeisen;39656v;Raiffeisenbank Kitzbühel - St. Johann eGen;Achenweg 16;6370;Kitzbühel;;;;;Tirol;05356/6960;;raiffeisen@rrb.at;RZTIAT22263;www.raiffeisen-kitzbuehel.at;23.08.1891;529900XG9P1JQ1NMJ395
 ;247413;38053;;Raiffeisen;47019x;Raiffeisenbank Lipizzanerheimat eGen;Conrad-von-Hötzendorf-Straße 5;8570;Voitsberg;Conrad-von-Hötzendorf-Straße 5;8570;Voitsberg;;Steiermark;03142/21321;;info@rb-lipizzanerheimat.at;RZSTAT2G487;www.rb-lipizzanerheimat.at;13.07.1902;529900XS6MCV68IFRW92
