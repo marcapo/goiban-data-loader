@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 03.02.2025
+SEPA-Verzeichnis-Abfrage vom 10.02.2025
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;263451;36273;KI;Raiffeisen;39856m;Raiffeisenbank Matrei am Brenner und Umgebung eGen;Raiffeisenplatz 43a;6143;Matrei am Brenner;;;;;Tirol;05273/6111;;info@raibamatrei.at;RZTIAT22273;www.raibamatrei.at;02.05.1897;529900NPXLPY9ZGPM933
 Hauptanstalt;263524;34630;KI;Raiffeisen;94698m;Raiffeisenbank Region Schwanenstadt eGen;Stadtpl. 25-26;4690;Schwanenstadt;;;;;Oberösterreich;07673/2213;;rb-schwanenstadt@raiffeisen-ooe.at;RZOOAT2L630;www.raiffeisen-ooe.at/region-schwanenstadt;29.05.1889;529900TC3EY5B3RLQ506
@@ -199,7 +199,7 @@ Hauptanstalt;17884578;44770;KI;Volksbanken;421966p;Volksbank Steiermark AG;Schmi
 ;371467;35164;;Raiffeisen;70746p;Raiffeisenbank Taxenbach eGen;Raiffeisenstr.1;5660;Taxenbach;;;;;Salzburg;06543/5227;;info@taxenbach.raiffeisen.at;RVSAAT2S064;www.taxenbach.raiffeisen.at;12.12.1889;529900L2BWCD9XBNJL68
 Hauptanstalt;4752546;20256;KI;Sparkassen;197282x;SPARKASSE NIEDERÖSTERREICH MITTE WEST AKTIENGESELLSCHAFT;Domgasse 5;3100;St.Pölten;;3101;St.Pölten;153;Niederösterreich;050100/73200;;office@spknoe.at;SPSPAT21XXX;www.spknoe.at;29.06.2000;549300FVPWXG57TWN385
 ;1481118;20263;;Sparkassen;36924a;Waldviertler Sparkasse Bank AG;Sparkassenplatz 3;3910;Zwettl;Sparkassenplatz 3;3910;Zwettl;;Niederösterreich;050100/79300;;nicole.hammerschmidt@wspk.at;SPZWAT21XXX;www.wspk.at;25.08.1990;529900K5H0F7K9SBO784
-Filiale;25899856;75910;;§ 9 Institute;538794w;Stellantis Bank SA Niederlassung Österreich;Groß-Enzersdorfer Straße 59;1220;Wien;;;;;Wien;0720 204070;;info@opelbank.at;OPBAATW2XXX;www.opelbank.at;;5299005FT5U0QSJSN049
+Filiale;25899856;75910;;§ 9 Institute;538794w;Stellantis Bank SA Niederlassung Österreich;Groß-Enzersdorfer Straße 59;1220;Wien;;;;;Wien;01 605000;;verwaltung-au@stellantis-finance.com;OPBAATW2XXX;www.stellantis-financial-services.at;;5299005FT5U0QSJSN049
 ;5171741;40000;;Volksbanken;211524s;VOLKSBANK WIEN AG;Dietrichgasse 25;1030;Wien;;;;;Wien;01/40137;;mail@volksbankwien.at;VBOEATWWXXX;www.volksbankwien.at;19.06.2001;529900D4CD6DIB3CI904
 ;5171741;18160;;Volksbanken;211524s;VOLKSBANK WIEN AG;Dietrichgasse 25;1030;Wien;;;;;Wien;01/40137;;mail@volksbankwien.at;VBOEATWWXXX;www.volksbankwien.at;19.06.2001;529900D4CD6DIB3CI904
 Hauptanstalt;67512;40074;;;116476p;immigon portfolioabbau ag i.A.;Stallburggasse 4;1010;Wien;;;;;Wien;;;;;;21.06.1974;FJDBAXYL0TCMGLPQ4563
@@ -610,7 +610,7 @@ Hauptanstalt;9371001;76520;KI;Aktienbanken;330441v;Liechtensteinische Landesbank
 Filiale;9529829;19480;ZW;§ 9 Institute;334642x;flatexDEGIRO Bank AG;Gadollaplatz 1;8010;Graz;Gadollaplatz 1;8010;Graz;;Steiermark;01/20577100;;kundeninfo@flatexdegiro.com;BIIWATWWXXX;https://flatexdegiro.com/;;
 Hauptanstalt;1607650;31000;KI;Raiffeisen;122119m;Raiffeisen Bank International AG;Am Stadtpark 9;1030;Wien;;1011;Wien;50;Wien;01/71707;;ir@rbinternational.com;RZBAATWWXXX;www.rbinternational.com;11.10.2010;9ZHRYM6F437SQJ6OUG95
 Hauptanstalt;83470;44800;KI;Volksbanken;352685f;Volksbank Oberösterreich AG;Pfarrgasse 5;4600;Wels;Pfarrgasse 5;4600;Wels;;Oberösterreich;07242/495;;office@vb-ooe.at;VBOEATWWOOE;www.vb-ooe.at;07.09.2010;5299002O43DCLC2NJV75
-Filiale;11062428;19420;ZW;§ 9 Institute;367767i;RCI Banque SA, Niederlassung Österreich;Laaer Berg-Straße 64;1100;Wien;Laaer Berg Straße 64;1100;Wien;;Wien;01/68030;;;RCNOATW1XXX;;;529900EL3KKJRKOK2637
+Filiale;11062428;19420;ZW;§ 9 Institute;367767i;RCI Banque SA, Niederlassung Österreich;Laaer Berg-Straße 64;1100;Wien;Laaer Berg Straße 64;1100;Wien;;Wien;01/68030;;list.rci-compta-at@mobilize-fs.com;RCNOATW1XXX;https://www.mobilize-fs.at/;;529900EL3KKJRKOK2637
 Hauptanstalt;263206;32614;KI;Raiffeisen;95604w;Raiffeisenkasse Orth a.d. Donau eGen;Am Markt 21;2304;Orth/Donau;;;;;Niederösterreich;02212/2381;;info@raikaorth.at;RLNWATWWODO;www.raikaorth.at;29.06.1894;529900WA7GAUPFZW3G52
 Hauptanstalt;263273;36267;KI;Raiffeisen;39098y;Raiffeisenbank Kundl-Münster eGen;Dorfstraße 14;6250;Kundl;;;;;Tirol;05338/7244;;info@rb-kundl-muenster.at;RZTIAT22267;www.rb-kundl-muenster.at;28.04.1907;529900JRPX3ZQ025KP77
 Hauptanstalt;265861;32951;KI;Raiffeisen;57838g;Raiffeisenbank Wolkersdorf - Auersthal eGen;Hauptstr. 5;2120;Wolkersdorf;Hauptstraße 5;2120;Wolkersdorf;;Niederösterreich;02245/3591;;info.32951@rb-32951.raiffeisen.at;RLNWATWWWDF;www.raiffeisen.at/wolkersdorf;06.04.1956;529900ELZ6BTRTP6ID16
@@ -787,7 +787,7 @@ Hauptanstalt;285862;35034;KI;Raiffeisen;68047w;Raiffeisenbank Salzburg Liefering
 ;267422;37429;;Raiffeisen;59672d;Raiffeisenbank Montfort eGen;Ringstraße 8;6830;Rankweil;;;;;Vorarlberg;05522/42301;;montfort@raiba.at;RVVGAT2B422;www.raibamontfort.at;17.11.1899;529900QPSJDW4Z12VO64
 ;267422;37402;;Raiffeisen;59672d;Raiffeisenbank Montfort eGen;Ringstraße 8;6830;Rankweil;;;;;Vorarlberg;05522/42301;;montfort@raiba.at;RVVGAT2B422;www.raibamontfort.at;17.11.1899;529900QPSJDW4Z12VO64
 ;267422;37461;;Raiffeisen;59672d;Raiffeisenbank Montfort eGen;Ringstraße 8;6830;Rankweil;;;;;Vorarlberg;05522/42301;;montfort@raiba.at;RVVGAT2B422;www.raibamontfort.at;17.11.1899;529900QPSJDW4Z12VO64
-Filiale;25899856;19515;ZW;§ 9 Institute;538794w;Stellantis Bank SA Niederlassung Österreich;Groß-Enzersdorfer Straße 59;1220;Wien;;;;;Wien;0720 204070;;info@opelbank.at;OPBAATW2XXX;www.opelbank.at;;5299005FT5U0QSJSN049
+Filiale;25899856;19515;ZW;§ 9 Institute;538794w;Stellantis Bank SA Niederlassung Österreich;Groß-Enzersdorfer Straße 59;1220;Wien;;;;;Wien;01 605000;;verwaltung-au@stellantis-finance.com;OPBAATW2XXX;www.stellantis-financial-services.at;;5299005FT5U0QSJSN049
 ;256927;38122;;Raiffeisen;59121v;Raiffeisenbank Region Fürstenfeld eGen;Stadt-Zug-Platz 4;8280;Fürstenfeld;;;;;Steiermark;03382/52363;;office@rbfuerstenfeld.at;RZSTAT2G077;www.rbfuerstenfeld.at;31.07.1926;529900KM8P1Q4L0HCX48
 Filiale;26709481;19835;ZW;§ 9 Institute;547791a;Ford Bank GmbH, Zweigniederlassung Österreich;Sterneckstraße 31-33;5020;Salzburg;Sterneckstraße 31-33;5021;Salzburg;;Salzburg;0662/6560;;fceinfo@ford.com;FAZFAT21XXX;www.ford.at;;
 ;279986;35048;;Raiffeisen;71071t;Raiffeisenbank Hohe Tauern eGen;Wilhelm-Fazokas-Straße 2c;5710;Kaprun;;;;;Salzburg;06547/8245-0;;info@hohetauern.raiffeisen.at;RVSAAT2S012;www.hohetauern.raiffeisen.at;26.06.1893;529900LKC78RCPF4OP49
@@ -860,6 +860,7 @@ Hauptanstalt;24365696;19825;KI;Aktienbanken;515033b;Wüstenrot Bank AG;Stubenbas
 ;259977;36283;;Raiffeisen;40256a;Raiffeisenbank Serfaus-Fiss-Ried-Nauders eGen;Dorfbahnstraße 41-43;6534;Serfaus;;;;;Tirol;+43 5999 36315 00;;raiba.serfaus-fiss-ried@rbgt.raiffeisen.at;RZTIAT22283;www.raiffeisen.at/serfaus-fiss-ried;02.01.1916;529900PRWY39ZU97UW60
 ;260665;34750;;Raiffeisen;95249y;Raiffeisenbank Region Traun-Alm eGen;Marktplatz 14;4650;Lambach;;;;;Oberösterreich;0599 34083;;office.34083@raiffeisen-ooe.at;RZOOAT2L083;www.raiffeisen-ooe.at/region-traun-alm;09.04.1925;529900PE90YKMGGZMM05
 ;265918;34165;;Raiffeisen;121233i;Raiffeisenbank Pyhrn-Priel eGen;Bahnhofstraße 6;4580;Windischgarsten;;;;;Oberösterreich;07562/8421;;office@raiffeisen-pp.at;RZOOAT2L491;www.raiffeisen-pp.at;02.02.1960;529900I4P8L3QJ7U7U57
+Filiale;31742327;19325;ZW;§ 9 Institute;641716a;ODDO BHF SCA, Niederlassung Österreich;Muthgasse 26;1190;Wien;;;;;Wien;+43 664 4216975;;christian.hackl@oddo-bhf.com;;https://www.oddo-bhf.com/de;;
 ;86509;1000;;;nullnull;Republik Österreich;Ballhausplatz 2;1010;Wien;;;;;Wien;;;;BUNDATWWXXX;;;529900QWWUI4XRVR7I03
 ;3976874;57100;;Landeshypothekenbanken;171611w;HYPO TIROL BANK AG;Meraner Straße 8;6020;Innsbruck;;;;;Tirol;050700;;office@hypotirol.com;HYPTAT22XXX;www.hypotirol.com;10.06.1998;0W5QHUNYV4W7GJO62R27
 ;30937;34923;;Raiffeisen;247579m;Raiffeisenlandesbank Oberösterreich Aktiengesellschaft;Europaplatz 1a;4020;Linz;;;;;Oberösterreich;0732/6596;;internet@rlbooe.at;RZOOAT2LXXX;www.rlbooe.at;31.03.2004;I6SS27Q1Q3385V753S50
