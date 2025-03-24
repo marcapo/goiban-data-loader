@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 17.03.2025
+SEPA-Verzeichnis-Abfrage vom 24.03.2025
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;388815;100;KI;OeNB;nullnull;Oesterreichische Nationalbank;Otto-Wagner-Platz 3;1090;Wien;;;;;Wien;01/40420;;;NABAATWWXXX;;;5299001Z8JOKGWV5O949
 Hauptanstalt;67474;10000;KI;Sonderbanken;85749b;Oesterreichische Kontrollbank Aktiengesellschaft;Am Hof 4;1010;Wien;;1011;Wien;70;Wien;01/53127;;info@oekb.at;OEKOATWWXXX;www.oekb.at;22.01.1946;5299000OVRLMF858L016
@@ -96,7 +96,7 @@ Hauptanstalt;189448;18170;;;128283b;KA Finanz AG i.A.;Taborstraße 1-3;1020;Wien
 ;53767;18190;;Aktienbanken;205340x;BAWAG P.S.K. Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse Aktiengesellschaft;Wiedner Gürtel 11;1100;Wien;;;;;Wien;059905;;office@bawaggroup.com;BAWAATWWXXX;https://www.bawag.at/;01.01.1922;529900ICA8XQYGIKR372
 Hauptanstalt;5104505;18400;KI;Aktienbanken;209697d;Generali Bank AG;Landskrongasse 1-3;1010;Wien;;1011;Wien;320;Wien;01/26067;;meldewesen@generalibank.at;BGENATWWXXX;www.generalibank.at;16.05.2001;529900MTQXTM5IIGOI81
 Hauptanstalt;127647;18600;KI;Aktienbanken;76096g;Volkskreditbank AG;Rudigierstr. 5-7;4020;Linz;;4010;Linz/Donau;116;Oberösterreich;0732/7637;;service@vkb-bank.at;VKBLAT2LXXX;www.vkb-bank.at;21.10.1872;529900990PPI3K3RDT23
-Filiale;31238157;19001;ZW;§ 9 Institute;630983t;Trade Republic Bank GmbH, Branch Austria;Kärntner Ring 5-7;1010;Wien;;;;;Wien;;;;;;;391200WIW9BI64SHLU69
+Filiale;31238157;19001;ZW;§ 9 Institute;630983t;Trade Republic Bank GmbH, Branch Austria;Kärntner Ring 5-7;1010;Wien;;;;;Wien;+491728111838;;target2@traderepublic.com;TRBKATW2XXX;https://traderepublic.com/de-at;;391200WIW9BI64SHLU69
 Filiale;2673665;19100;ZW;§ 9 Institute;140266z;Deutsche Bank Aktiengesellschaft Filiale Wien;Fleischmarkt 1;1010;Wien;;1013;Wien;8;Wien;01/531810;;deutsche.bank@db.com;DEUTATWWXXX;www.db.com;23.08.1996;
 Hauptanstalt;163201;19120;KI;Aktienbanken;76198g;bank99 AG;Praterstraße 31;1020;Wien;;;;;Wien;0800 099 099;;operations@bank99.at;SPBAATWWXXX;www.bank99.at;01.01.1884;529900RCLERIIXF4QM23
 Hauptanstalt;279021;19140;KI;Aktienbanken;78445k;Bank Gutmann Aktiengesellschaft;Schwarzenbergpl. 16;1010;Wien;;1011;Wien;546;Wien;01/50220;;mail@gutmann.at;GUTBATWWXXX;https://gd.gutmann.at/de/home;18.06.1979;549300KFLI6V2PUY8522
@@ -109,11 +109,10 @@ Hauptanstalt;55042;19200;KI;Aktienbanken;103232m;Schoellerbank Aktiengesellschaf
 Hauptanstalt;65536;19220;KI;Aktienbanken;124457a;Bank Winter & Co. AG;Singerstraße 10;1010;Wien;;1011;Wien;878;Wien;01/515040;;contact@bankwinter.com;WISMATWWXXX;www.bankwinter.com;28.02.1970;529900VJCGLCR4SHRC78
 ;53767;19250;;Aktienbanken;205340x;BAWAG P.S.K. Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse Aktiengesellschaft;Wiedner Gürtel 11;1100;Wien;;;;;Wien;059905;;office@bawaggroup.com;DIRAAT2SXXX;https://www.bawag.at/;01.01.1922;529900ICA8XQYGIKR372
 Filiale;31742327;19325;ZW;§ 9 Institute;641716a;ODDO BHF SCA, Niederlassung Österreich;Muthgasse 26;1190;Wien;;;;;Wien;+43 664 4216975;;christian.hackl@oddo-bhf.com;;https://www.oddo-bhf.com/de;;
-Hauptanstalt;1380940;19340;KI;Aktienbanken;286544p;European American Investment Bank Aktiengesellschaft in Abwicklung;Schottenring 18;1010;Wien;;;;;Wien;01/5123880;;office@eurambank.com;EUAAATWWXXX;www.eurambank.com;01.02.1990;529900DCLXJSTQZ14I97
 Filiale;29029040;19360;ZW;§ 9 Institute;586056y;ING Austria Branch of ING Bank N.V.;Praterstraße 1/Space 35;1020;Wien;;;;;Wien;+43 664 88124 292;;regulatory.reporting_wbat@ing.com;INGBATWWXXX;https://www.ingwb.com/en/network/emea/austria;;
 Hauptanstalt;1606549;19380;KI;Sonderbanken;49597m;Bankhaus Denzel Aktiengesellschaft;Erdbergstraße 189-193;1030;Wien;;;;;Wien;01/51507;;mw@denzelbank.at;DENEATW1XXX;www.denzelbank.at;19.11.1991;52990022SP6JDAZ2DP74
 Hauptanstalt;1611160;19390;KI;Sonderbanken;45118a;BMW Austria Bank GmbH;Siegfried-Marcus-Str. 24;5020;Salzburg;;5021;Salzburg;283;Salzburg;0662/2191;;bmwbank@bmw.at;BMASAT21XXX;www.bmwfs.at;24.07.1991;529900SHKXCII9J8CF28
-Filiale;4433220;19400;ZW;§ 9 Institute;187637m;MUFG Bank (Europe) N.V. Vienna Branch;Schwarzenbergplatz 5/3.2;1030;Wien;;1037;Wien;51;Wien;01/50262;;info@at.mufg.jp;;www.nl.bk.mufg.jp;22.10.1999;
+Filiale;4433220;19400;ZW;§ 9 Institute;187637m;MUFG Bank (Europe) N.V. Vienna Branch;Schwarzenbergplatz 5/3.2;1030;Wien;;1037;Wien;51;Wien;01/5026225;;info@at.mufg.jp;;https://www.mufgemea.com/mbe/;22.10.1999;
 Filiale;11062428;19420;ZW;§ 9 Institute;367767i;RCI Banque SA, Niederlassung Österreich;Laaer Berg-Straße 64;1100;Wien;Laaer Berg Straße 64;1100;Wien;;Wien;01/68030;;list.rci-compta-at@mobilize-fs.com;RCNOATW1XXX;https://www.mobilize-fs.at/;;529900EL3KKJRKOK2637
 Hauptanstalt;5238315;19440;KI;Aktienbanken;84890p;Wiener Privatbank SE;Parkring 12;1010;Wien;;;;;Wien;01/53431;;office@wienerprivatbank.com;WIPBATWWXXX;www.wienerprivatbank.com;14.09.2001;529900VYY1MRNR59PN57
 ;9371001;19450;;Aktienbanken;330441v;Liechtensteinische Landesbank (Österreich) AG;Hessgasse 1;1010;Wien;;;;;Wien;01/53616;;llb@llb.at;COPRATWWXXX;www.llb.at;03.12.2009;529900MZNQDC3A3WSZ72
