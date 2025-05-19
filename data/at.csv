@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 12.05.2025
+SEPA-Verzeichnis-Abfrage vom 19.05.2025
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;388815;100;KI;OeNB;nullnull;Oesterreichische Nationalbank;Otto-Wagner-Platz 3;1090;Wien;;;;;Wien;01/40420;;;NABAATWWXXX;;;5299001Z8JOKGWV5O949
 Hauptanstalt;67474;10000;KI;Sonderbanken;85749b;Oesterreichische Kontrollbank Aktiengesellschaft;Am Hof 4;1010;Wien;;1011;Wien;70;Wien;01/53127;;info@oekb.at;OEKOATWWXXX;www.oekb.at;22.01.1946;5299000OVRLMF858L016
@@ -119,7 +119,7 @@ Hauptanstalt;5238315;19440;KI;Aktienbanken;84890p;Wiener Privatbank SE;Parkring 
 Filiale;16020022;19460;ZW;§ 9 Institute;383530s;LGT Bank AG, Zweigniederlassung Österreich;Bankgasse 9;1010;Wien;;;;;Wien;01/22759;;lgt.austria@lgt.com;BLFLATWWXXX;www.lgt.at;;54930032WVQDN7YNRI13
 Filiale;9529829;19480;ZW;§ 9 Institute;334642x;flatexDEGIRO Bank AG;Gadollaplatz 1;8010;Graz;Gadollaplatz 1;8010;Graz;;Steiermark;01/20577100;;kundeninfo@flatexdegiro.com;BIIWATWWXXX;https://flatexdegiro.com/;;
 Hauptanstalt;182389;19510;KI;Aktienbanken;58966s;LLB Bank AG;Getreidegasse 10;5020;Salzburg;;5010;Salzburg;16;Salzburg;0662/80480;;info@llb.at;PIAGAT2SXXX;bank.llb.at;14.10.1885;5299002L43LDQEB70L32
-Filiale;25899856;19515;ZW;§ 9 Institute;538794w;Stellantis Bank SA Niederlassung Österreich;Groß-Enzersdorfer Straße 59;1220;Wien;;;;;Wien;01 605000;;verwaltung-au@stellantis-finance.com;OPBAATW2XXX;www.stellantis-financial-services.at;;5299005FT5U0QSJSN049
+Filiale;25899856;19515;ZW;§ 9 Institute;538794w;Stellantis Bank SA Niederlassung Österreich;Schönbrunner Straße 297;1120;Wien;;;;;Wien;01 605000;;verwaltung-au@stellantis-finance.com;OPBAATW2XXX;www.stellantis-financial-services.at;;5299005FT5U0QSJSN049
 ;1643827;19520;;Sparkassen;34274d;Steiermärkische Bank und Sparkassen Aktiengesellschaft;Sparkassenplatz 4;8010;Graz;;8011;Graz;844;Steiermark;050100/36000;;info@steiermaerkische.at;STSPAT2GXXX;www.sparkasse.at/steiermaerkische;09.07.1991;549300DVPJYGNF2P7B03
 Hauptanstalt;2440792;19530;KI;Aktienbanken;75934v;Bankhaus Carl Spängler & Co. Aktiengesellschaft;Schwarzstraße 1;5020;Salzburg;;5024;Salzburg;41;Salzburg;0662/8686;;bankhaus@spaengler.at;SPAEAT2SXXX;www.spaengler.at;14.01.1994;529900CCYCFJRG4F2935
 Filiale;18994016;19540;ZW;§ 9 Institute;442863w;Bank of China (Central and Eastern Europe) Limited Vienna Branch;Schottenring 18;1010;Wien;Schottenring 18;1010;Wien;;Wien;01/53666;;report.at@bankofchina.com;BKCHATWWXXX;https://www.bankofchina.com/at/en/index.html;;
@@ -855,7 +855,7 @@ Hauptanstalt;3369056;58000;KI;Landeshypothekenbanken;145586y;Hypo Vorarlberg Ban
 Hauptanstalt;244627;73700;KI;Sonderbanken;105935m;Österreichische Hotel- und Tourismusbank Gesellschaft m.b.H.;Strauchgasse 3;1010;Wien;;1010;Wien;480;Wien;01/51530;;oeht@oeht.at;;www.oeht.at;01.07.1947;529900ANOYN8YYBSCC45
 Hauptanstalt;121193;74200;KI;Aktienbanken;125818b;SPAR-FINANZ BANK AG;Europastraße 3;5015;Salzburg;Europastraße 3;5015;Salzburg;;Salzburg;0662/4470;;office@spar.at;SFIVATW1XXX;keine;24.01.1968;529900AZFXT8865M6B67
 Filiale;5953413;75100;ZW;§ 9 Institute;237384w;State Street Bank International GmbH Filiale Wien;Graben 19;1010;Wien;Graben 19;1010;Wien;;Wien;01/25393100;;clientserviceaustria@statestreet.com;SBOSATWWXXX;https://www.statestreet.com/about/office-locations.html;25.07.2003;54930088CDN3HCA4SG14
-Filiale;25899856;75910;;§ 9 Institute;538794w;Stellantis Bank SA Niederlassung Österreich;Groß-Enzersdorfer Straße 59;1220;Wien;;;;;Wien;01 605000;;verwaltung-au@stellantis-finance.com;OPBAATW2XXX;www.stellantis-financial-services.at;;5299005FT5U0QSJSN049
+Filiale;25899856;75910;;§ 9 Institute;538794w;Stellantis Bank SA Niederlassung Österreich;Schönbrunner Straße 297;1120;Wien;;;;;Wien;01 605000;;verwaltung-au@stellantis-finance.com;OPBAATW2XXX;www.stellantis-financial-services.at;;5299005FT5U0QSJSN049
 Hauptanstalt;105520;76000;KI;Sonderbanken;58517f;Porsche Bank Aktiengesellschaft;Vogelweiderstraße 75;5020;Salzburg;;5021;Salzburg;91;Salzburg;0662/4683;;info@porschebank.at;PORCAT21XXX;www.porschebank.at;26.01.1981;529900L89TGSPV9OU151
 ;209953;76022;;Sonderbanken;84409g;card complete Service Bank AG;Lassallestraße 3;1020;Wien;;1011;Wien;147;Wien;01/71111;;impressum@cardcomplete.com;VIAUATW1XXX;www.cardcomplete.com;01.01.1985;529900PFZ21Q6MS9E857
 Filiale;8440417;76032;ZW;§ 9 Institute;305043v;TeamBank Österreich - Niederlassung der TeamBank AG Nürnberg;Fleischmarkt 1/6/12;1010;Wien;;;;;Wien;01/740406170;;oenb.meldewesen@teambank.de;TEAMDE71TAT;https://www.teambank.de/;;
