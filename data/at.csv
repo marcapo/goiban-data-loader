@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 18.08.2025
+SEPA-Verzeichnis-Abfrage vom 25.08.2025
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;388815;100;KI;OeNB;nullnull;Oesterreichische Nationalbank;Otto-Wagner-Platz 3;1090;Wien;;;;;Wien;01/40420;;;NABAATWWXXX;;;5299001Z8JOKGWV5O949
 Hauptanstalt;67474;10000;KI;Sonderbanken;85749b;Oesterreichische Kontrollbank Aktiengesellschaft;Am Hof 4;1010;Wien;;1011;Wien;70;Wien;01/53127;;info@oekb.at;OEKOATWWXXX;www.oekb.at;22.01.1946;5299000OVRLMF858L016
@@ -780,7 +780,7 @@ Hauptanstalt;269441;39546;KI;Raiffeisen;116028f;Raiffeisenbank Völkermarkt-Blei
 Hauptanstalt;269450;39559;KI;Raiffeisen;112912y;Raiffeisenbank Wernberg, registrierte Genossenschaft mit beschränkter Haftung;Wernberger Straße 1;9241;Wernberg;Wernberger Straße 1;9241;Wernberg;;Kärnten;04252/2223;;office@rbwernberg.at;RZKTAT2K559;www.raiffeisen.at/ktn/wernberg;01.01.1895;52990010KATB4A736397
 Hauptanstalt;269468;39561;KI;Raiffeisen;113124i;Raiffeisenbank Großglockner-Weissensee eG;Winklern 37;9841;Winklern im Mölltal;Winklern 37;9841;Winklern;;Kärnten;04822/72210;;office@meibank.at;RZKTAT2K561;www.meibank.at;08.04.1901;529900S9TROSI3DQS421
 ;5171741;40000;;Volksbanken;211524s;VOLKSBANK WIEN AG;Dietrichgasse 25;1030;Wien;;;;;Wien;01/40137;;mail@volksbankwien.at;VBOEATWWXXX;www.volksbankwien.at;19.06.2001;529900D4CD6DIB3CI904
-Hauptanstalt;67512;40074;;;116476p;immigon portfolioabbau ag i.A.;Taborstraße 19;1020;Wien;;;;;Wien;;;;;;21.06.1974;FJDBAXYL0TCMGLPQ4563
+Hauptanstalt;67512;40074;;;116476p;immigon portfolioabbau ag i.A.;Am Tabor 19;1020;Wien;;;;;Wien;;;;;;21.06.1974;FJDBAXYL0TCMGLPQ4563
 ;5171741;40100;;Volksbanken;211524s;VOLKSBANK WIEN AG;Dietrichgasse 25;1030;Wien;;;;;Wien;01/40137;;mail@volksbankwien.at;VBOEATWWXXX;www.volksbankwien.at;19.06.2001;529900D4CD6DIB3CI904
 ;1646419;40170;;Volksbanken;39939i;Volksbank Niederösterreich AG;Bahnhofplatz 10;3100;St. Pölten;;3100;St. Pölten;90;Niederösterreich;02742/391;;mail@vbnoe.at;VBOEATWWNOM;www.vbnoe.at;18.09.1991;529900TJVZO6PPBYKU80
 ;5171741;40430;;Volksbanken;211524s;VOLKSBANK WIEN AG;Dietrichgasse 25;1030;Wien;;;;;Wien;01/40137;;mail@volksbankwien.at;VBOEATWWXXX;www.volksbankwien.at;19.06.2001;529900D4CD6DIB3CI904
