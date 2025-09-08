@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 01.09.2025
+SEPA-Verzeichnis-Abfrage vom 08.09.2025
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;388815;100;KI;OeNB;nullnull;Oesterreichische Nationalbank;Otto-Wagner-Platz 3;1090;Wien;;;;;Wien;01/40420;;;NABAATWWXXX;;;5299001Z8JOKGWV5O949
 Hauptanstalt;67474;10000;KI;Sonderbanken;85749b;Oesterreichische Kontrollbank Aktiengesellschaft;Am Hof 4;1010;Wien;;1011;Wien;70;Wien;01/53127;;info@oekb.at;OEKOATWWXXX;www.oekb.at;22.01.1946;5299000OVRLMF858L016
@@ -723,7 +723,7 @@ Hauptanstalt;247413;38487;KI;Raiffeisen;47019x;Raiffeisenbank Lipizzanerheimat e
 Hauptanstalt;259578;38497;KI;Raiffeisen;66811b;Raiffeisenbank Region Feldbach eGen;Hauptplatz 18;8330;Feldbach;Hauptplatz 18;8330;Feldbach;;Steiermark;03152/4222-0;;info.38497@rb-regionfeldbach.at;RZSTAT2G497;www.rb-regionfeldbach.at;01.01.1899;5299009VLI8ZROIK9N78
 ;256960;38499;;Raiffeisen;69583d;Raiffeisenbank Gleinstätten-Leutschach-Wildon eGen;Gleinstätten 168;8443;Gleinstätten;;;;;Steiermark;+43 3457 4077 0;;info@rbgleinstaetten.at;RZSTAT2G102;www.rbgleinstaetten.at;01.01.1897;529900HUNXOFZ7HGUU35
 ;256811;38503;;Raiffeisen;59179d;Raiffeisenbank Süd-Weststeiermark eGen;Oberer Markt 9;8551;Wies (Stmk.);;;;;Steiermark;03465/22030;;info.38056@rb-38056.raiffeisen.at;RZSTAT2G056;www.raiffeisen.at/sued-weststeiermark;10.05.1910;529900S7RDLH962SLR89
-Hauptanstalt;112097;39000;KI;Raiffeisen;116094b;Raiffeisenlandesbank Kärnten - Rechenzentrum und Revisionsverband, registrierte Genossenschaft mit beschränkter Haftung;Raiffeisenplatz 1;9020;Klagenfurt;;;;;Kärnten;0463/99300;;info@rbgk.raiffeisen.at;RZKTAT2KXXX;www.rlb-bank.at;03.12.1900;5299009EHB4RBGMI5828
+Hauptanstalt;112097;39000;KI;Raiffeisen;116094b;Raiffeisen Landesbank Kärnten und Revisionsverband eGen;Raiffeisenplatz 1;9020;Klagenfurt;;;;;Kärnten;0463/99300;;info@rbgk.raiffeisen.at;RZKTAT2KXXX;www.rlb-bank.at;03.12.1900;5299009EHB4RBGMI5828
 Hauptanstalt;114820;39100;KI;Raiffeisen;115073a;Posojilnica Bank eGen;Paulitschg. 5-7;9020;Klagenfurt am Wörthersee;;9020;Klagenfurt;465;Kärnten;0463/512365;;info.39100@poso.at;VSGKAT2KXXX;www.poso.at;01.01.1921;529900KD0L0FDTDAPJ25
 ;114820;39101;;Raiffeisen;115073a;Posojilnica Bank eGen;Paulitschg. 5-7;9020;Klagenfurt am Wörthersee;;9020;Klagenfurt;465;Kärnten;0463/512365;;info.39100@poso.at;VSGKAT2KXXX;www.poso.at;01.01.1921;529900KD0L0FDTDAPJ25
 ;114820;39102;;Raiffeisen;115073a;Posojilnica Bank eGen;Paulitschg. 5-7;9020;Klagenfurt am Wörthersee;;9020;Klagenfurt;465;Kärnten;0463/512365;;info.39100@poso.at;VSGKAT2KXXX;www.poso.at;01.01.1921;529900KD0L0FDTDAPJ25
@@ -745,7 +745,7 @@ Hauptanstalt;269492;39320;KI;Raiffeisen;111194x;Raiffeisenbank Grafenstein-Magda
 ;269468;39322;;Raiffeisen;113124i;Raiffeisenbank Großglockner-Weissensee eG;Winklern 37;9841;Winklern im Mölltal;Winklern 37;9841;Winklern;;Kärnten;04822/72210;;office@meibank.at;RZKTAT2K561;www.meibank.at;08.04.1901;529900S9TROSI3DQS421
 ;268763;39340;;Raiffeisen;110981h;Raiffeisenbank Mittelkärnten eG;Oktoberplatz 1;9300;St. Veit an der Glan;;9300;St. Veit an der Glan;9;Kärnten;04212/5566;;rb.mittelkaernten@rbmk.at;RZKTAT2K475;www.raikastveit.at;06.12.1903;529900FT8EQ3UTVPCG65
 ;269638;39355;;Raiffeisen;118767h;Raiffeisenbank Wörthersee-Landskron-Gegendtal eG;Karawankenplatz 2;9220;Velden am Wörther See;Karawankenplatz 2;9220;Velden;;Kärnten;059939390;;information@rb39390.at;RZKTAT2K390;www.raiffeisen.at/ktn/woerthersee-landskron-gegendtal/de/meine-bank.html;03.03.1912;52990082FUIF8HZHY732
-;112097;39358;;Raiffeisen;116094b;Raiffeisenlandesbank Kärnten - Rechenzentrum und Revisionsverband, registrierte Genossenschaft mit beschränkter Haftung;Raiffeisenplatz 1;9020;Klagenfurt;;;;;Kärnten;0463/99300;;info@rbgk.raiffeisen.at;RZKTAT2KXXX;www.rlb-bank.at;03.12.1900;5299009EHB4RBGMI5828
+;112097;39358;;Raiffeisen;116094b;Raiffeisen Landesbank Kärnten und Revisionsverband eGen;Raiffeisenplatz 1;9020;Klagenfurt;;;;;Kärnten;0463/99300;;info@rbgk.raiffeisen.at;RZKTAT2KXXX;www.rlb-bank.at;03.12.1900;5299009EHB4RBGMI5828
 Hauptanstalt;269590;39364;KI;Raiffeisen;114659t;Raiffeisenbank Karnische Region eG;Gasserplatz 4;9620;Hermagor;Gasserplatz;9620;Hermagor;;Kärnten;04715/8183;;office@rb39364.at;RZKTAT2K364;www.rb-karnischeregion.at;11.02.1907;529900BHW28OSHOYIN59
 ;269638;39381;;Raiffeisen;118767h;Raiffeisenbank Wörthersee-Landskron-Gegendtal eG;Karawankenplatz 2;9220;Velden am Wörther See;Karawankenplatz 2;9220;Velden;;Kärnten;059939390;;information@rb39390.at;RZKTAT2K390;www.raiffeisen.at/ktn/woerthersee-landskron-gegendtal/de/meine-bank.html;03.03.1912;52990082FUIF8HZHY732
 ;269379;39383;;Raiffeisen;119565g;Raiffeisenbank Region Villach eG;Nikolaig. 4;9500;Villach;Nikolaigasse 4;9500;Villach;;Kärnten;+43 4242 24943;;info@rbvillach.at;RZKTAT2K496;www.rbvillach.at;27.01.1893;529900UVX2XR8Y4ZUQ97
