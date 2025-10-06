@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 29.09.2025
+SEPA-Verzeichnis-Abfrage vom 06.10.2025
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;388815;100;KI;OeNB;nullnull;Oesterreichische Nationalbank;Otto-Wagner-Platz 3;1090;Wien;;;;;Wien;01/40420;;;NABAATWWXXX;;;5299001Z8JOKGWV5O949
 Hauptanstalt;67474;10000;KI;Sonderbanken;85749b;Oesterreichische Kontrollbank Aktiengesellschaft;Am Hof 4;1010;Wien;;1011;Wien;70;Wien;01/53127;;info@oekb.at;OEKOATWWXXX;www.oekb.at;22.01.1946;5299000OVRLMF858L016
@@ -131,7 +131,7 @@ Filiale;4910893;19675;ZW;§ 9 Institute;327326m;Commerzbank AG Niederlassung Wie
 Hauptanstalt;4381807;19690;KI;Aktienbanken;185946a;VakifBank International AG;Prinz-Eugen-Straße 8-10, Top 17 + Top 18;1040;Wien;;1040;Wien;;Wien;01/5123520;;office@vakifbank.at;TVBAATWWXXX;www.vakifbank.at;23.07.1999;52990056W0VDKEDYUY83
 Hauptanstalt;1228862;19810;KI;Aktienbanken;62610z;Santander Consumer Bank GmbH;Wagramer Straße 19;1220;Wien;Wagramer Straße 19;1220;Wien;;Wien;+43502039413;;patricia.schmegkal@santander.at;SANTATWWXXX;www.santanderconsumer.at;01.01.1929;5299000I7Y60A8273788
 Hauptanstalt;24365696;19825;KI;Aktienbanken;515033b;Wüstenrot Bank AG;Stubenbastei 2;1010;Wien;Stubenbastei 2;1010;Wien;;Wien;+43 57070 500 0;;presse@wuestenrot.at;WUSNATWWXXX;https://www.wuestenrot.at/index.html;13.05.2019;529900YU8L8AH5QFI983
-Filiale;26709481;19835;ZW;§ 9 Institute;547791a;Ford Bank GmbH, Zweigniederlassung Österreich;Sterneckstraße 31-33;5020;Salzburg;Sterneckstraße 31-33;5021;Salzburg;;Salzburg;0662/6560;;fceinfo@ford.com;FAZFAT21XXX;www.ford.at;;
+Filiale;26709481;19835;ZW;§ 9 Institute;547791a;Ford Financial GmbH, Zweigniederlassung Österreich;Sterneckstraße 31-33;5020;Salzburg;Sterneckstraße 31-33;5021;Salzburg;;Salzburg;0662/6560;;fceinfo@ford.com;FAZFAT21XXX;www.ford.at;;
 Hauptanstalt;6703518;19880;KI;Aktienbanken;256184t;Western Union International Bank GmbH;The Icon Vienna (Turm 24) Wiedner Gürtel 13;1100;Wien;;;;;Wien;01/50617;;office@westernunionbank.com;WUIBATWWXXX;www.westernunionbank.com;26.11.2004;549300POR1VXCUOJ3V54
 Hauptanstalt;22212191;19888;KI;Aktienbanken;497440f;ICBC Austria Bank GmbH;Kolingasse 4;1090;Wien;;;;;Wien;01 9395588 0;;office@at.icbc.com.cn;ICBKATWWXXX;http://www.icbc-at.com;24.07.2018;529900VJJC1WXQU3Y063
 Hauptanstalt;55166;19930;KI;Sonderbanken;117507f;Raiffeisen Digital Bank AG;Am Stadtpark 9;1030;Wien;Am Stadtpark 9;1030;Wien;;Wien;0171707-5560;;office@raiffeisendigital.com;CENBATWWXXX;www.raiffeisendigital.com;01.01.1974;529900M2F7D5795H1A49
@@ -845,7 +845,7 @@ Hauptanstalt;1629387;52000;KI;Landeshypothekenbanken;245157a;Austrian Anadi Bank
 Hauptanstalt;10050973;52300;KI;Aktienbanken;350921k;Addiko Bank AG;Canetti Tower, Canettistraße 5/OG 12;1100;Wien;;;;;Wien;050232;;holding@addiko.com;HSEEAT2KXXX;www.addiko.com;21.06.2013;529900UKZBMDBDZIXD62
 Hauptanstalt;7784180;53000;KI;Landeshypothekenbanken;99073x;HYPO NOE Landesbank für Niederösterreich und Wien AG;Hypogasse 1;3100;St.Pölten;;;;;Niederösterreich;0590910;;office@hyponoe.at;HYPNATWWXXX;www.hyponoe.at;16.09.1992;5493007BWYDPQZLZ0Y27
 ;7784180;53100;;Landeshypothekenbanken;99073x;HYPO NOE Landesbank für Niederösterreich und Wien AG;Hypogasse 1;3100;St.Pölten;;;;;Niederösterreich;0590910;;office@hyponoe.at;HYPNATWWLDS;www.hyponoe.at;16.09.1992;5493007BWYDPQZLZ0Y27
-Hauptanstalt;3613640;54000;KI;Landeshypothekenbanken;157656y;Oberösterreichische Landesbank Aktiengesellschaft;Landstr. 38;4010;Linz;;4010;Linz;259;Oberösterreich;0732/7639;;office@hypo.at;OBLAAT2LXXX;http://www.hypo.at;21.04.1997;529900BI5KIGX6YLX375
+Hauptanstalt;3613640;54000;KI;Landeshypothekenbanken;157656y;Oberösterreichische Landesbank Aktiengesellschaft;Landstraße 38;4020;Linz;;4010;Linz;259;Oberösterreich;0732/7639;;office@hypo.at;OBLAAT2LXXX;http://www.hypo.at;21.04.1997;529900BI5KIGX6YLX375
 ;30937;55000;;Raiffeisen;247579m;Raiffeisenlandesbank Oberösterreich Aktiengesellschaft;Europaplatz 1a;4020;Linz;;;;;Oberösterreich;0732/6596;;internet@rlbooe.at;SLHYAT2SXXX;www.rlbooe.at;31.03.2004;I6SS27Q1Q3385V753S50
 ;30937;55500;;Raiffeisen;247579m;Raiffeisenlandesbank Oberösterreich Aktiengesellschaft;Europaplatz 1a;4020;Linz;;;;;Oberösterreich;0732/6596;;internet@rlbooe.at;SLHYAT2S500;www.rlbooe.at;31.03.2004;I6SS27Q1Q3385V753S50
 ;122122;56000;;Raiffeisen;264700s;Raiffeisen-Landesbank Steiermark AG;Radetzkystraße 15;8010;Graz;;8011;Graz;847;Steiermark;0316/8036;;info@rlbstmk.at;RZSTAT2GXXX;www.raiffeisen.at/rlb-steiermark;01.01.1927;529900UNUKYZ9HND3309
