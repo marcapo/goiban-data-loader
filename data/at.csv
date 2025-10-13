@@ -2,7 +2,7 @@ Es wird darauf hingewiesen, dass die Daten der österreichischen Kreditinstitute
 Diese Daten werden ausschliesslich unter den Bedingungen des Haftungsausschlusses und der Copyrightbestimmungen der Oesterreichischen Nationalbank zur Verfügung gestellt.
 Weitere Informationen zu diesem Thema finden Sie unter http://www.oenb.at/Service/Impressum-und-Haftung.html.
 
-SEPA-Verzeichnis-Abfrage vom 06.10.2025
+SEPA-Verzeichnis-Abfrage vom 13.10.2025
 Kennzeichen;Identnummer;Bankleitzahl;Institutsart;Sektor;Firmenbuchnummer;Bankenname;Straße;PLZ;Ort;Postadresse / Straße;Postadresse / PLZ;Postadresse / Ort;Postfach;Bundesland;Telefon;Fax;E-Mail;SWIFT-Code;Homepage;Gründungsdatum;LEI
 Hauptanstalt;388815;100;KI;OeNB;nullnull;Oesterreichische Nationalbank;Otto-Wagner-Platz 3;1090;Wien;;;;;Wien;01/40420;;;NABAATWWXXX;;;5299001Z8JOKGWV5O949
 Hauptanstalt;67474;10000;KI;Sonderbanken;85749b;Oesterreichische Kontrollbank Aktiengesellschaft;Am Hof 4;1010;Wien;;1011;Wien;70;Wien;01/53127;;info@oekb.at;OEKOATWWXXX;www.oekb.at;22.01.1946;5299000OVRLMF858L016
@@ -99,7 +99,7 @@ Hauptanstalt;127647;18600;KI;Aktienbanken;76096g;Volkskreditbank AG;Rudigierstr.
 Filiale;31238157;19001;ZW;§ 9 Institute;630983t;Trade Republic Bank GmbH, Branch Austria;Kärntner Ring 5-7;1010;Wien;;;;;Wien;+491728111838;;target2@traderepublic.com;TRBKATW2XXX;https://traderepublic.com/de-at;;391200WIW9BI64SHLU69
 Filiale;2673665;19100;ZW;§ 9 Institute;140266z;Deutsche Bank Aktiengesellschaft Filiale Wien;Fleischmarkt 1;1010;Wien;;1013;Wien;8;Wien;01/531810;;deutsche.bank@db.com;DEUTATWWXXX;www.db.com;23.08.1996;
 Hauptanstalt;163201;19120;KI;Aktienbanken;76198g;bank99 AG;Praterstraße 31;1020;Wien;;;;;Wien;0800 099 099;;operations@bank99.at;SPBAATWWXXX;www.bank99.at;01.01.1884;529900RCLERIIXF4QM23
-Hauptanstalt;279021;19140;KI;Aktienbanken;78445k;Bank Gutmann Aktiengesellschaft;Schwarzenbergpl. 16;1010;Wien;;1011;Wien;546;Wien;01/50220;;mail@gutmann.at;GUTBATWWXXX;https://gd.gutmann.at/de/home;18.06.1979;549300KFLI6V2PUY8522
+Hauptanstalt;279021;19140;KI;Aktienbanken;78445k;Bank Gutmann Aktiengesellschaft;Schwarzenbergpl. 16;1010;Wien;;1015;Wien;35;Wien;01/50220;;mail@gutmann.at;GUTBATWWXXX;https://gd.gutmann.at/de/home;18.06.1979;549300KFLI6V2PUY8522
 Hauptanstalt;2773899;19150;KI;Aktienbanken;144838y;Kathrein Privatbank Aktiengesellschaft;Wipplingerstraße 25;1010;Wien;;;;;Wien;01/53451;;privatbank@kathrein.at;KTBKATWWXXX;www.kathrein.at;30.04.1996;529900TXPMGGJR19EY42
 ;5238315;19160;;Aktienbanken;84890p;Wiener Privatbank SE;Parkring 12;1010;Wien;;;;;Wien;01/53431;;office@wienerprivatbank.com;WIPBATWWXXX;www.wienerprivatbank.com;14.09.2001;529900VYY1MRNR59PN57
 Hauptanstalt;1801139;19170;KI;Aktienbanken;90966z;PARTNER BANK AKTIENGESELLSCHAFT;Goethestr. 1a;4020;Linz;;;;;Oberösterreich;0732/6965;;info@partnerbank.at;PABAAT2LXXX;www.partnerbank.at;26.05.1992;529900GIW7IGDLAYP075
